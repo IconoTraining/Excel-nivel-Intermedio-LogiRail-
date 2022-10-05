@@ -1,0 +1,2501 @@
+From: "Guardado por Windows Internet Explorer 9"
+Subject: =?Windows-1252?Q?correlaci=F3n_y_regresi=F3n?=
+Date: Wed, 22 May 2013 10:55:58 +0200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CE56DA.F0C9F670"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CE56DA.F0C9F670
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://recursostic.educacion.es/descartes/web/materiales_didacticos/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>correlaci=F3n y regresi=F3n</TITLE>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 9.00.8112.16484"></HEAD>
+<BODY=20
+background=3Dhttp://recursostic.educacion.es/descartes/web/imagenes_comun=
+es/fondo_1.gif=20
+bgProperties=3Dfixed bgColor=3D#ffffff>
+<P align=3Dleft><A=20
+href=3D"http://recursostic.educacion.es/descartes/web/index.html"><IMG =
+border=3D0=20
+src=3D"http://recursostic.educacion.es/descartes/web/imagenes_comunes/log=
+o_blanco.gif"=20
+width=3D140 height=3D70></A></P>
+<P align=3Dcenter><FONT size=3D5><STRONG>DISTRIBUCIONES=20
+BIDIMENSIONALES.</STRONG></FONT></P>
+<P align=3Dcenter><FONT size=3D5><STRONG>REGRESI=D3N Y =
+CORRELACI=D3N&nbsp;<A=20
+name=3DIndice></A></STRONG></FONT></P>
+<OL style=3D"FONT-FAMILY: Comic Sans MS; COLOR: #0000ff">
+  <LI>
+  <P align=3Djustify><FONT color=3D#0000ff face=3D"Comic Sans MS"><A=20
+  =
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#Intr=
+oducci=F3n">Introducci=F3n</A></FONT>=20
+  </P>
+  <LI>
+  <P align=3Djustify><FONT color=3D#0000ff face=3D"Comic Sans MS"><A=20
+  =
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#DIST=
+RIBUCIONES BIDIMENSIONALES">DISTRIBUCIONES=20
+  BIDIMENSIONALES</A></FONT> </P>
+  <LI>
+  <P align=3Djustify><FONT color=3D#0000ff face=3D"Comic Sans MS"><A=20
+  =
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#IDEA=
+ DE CORRELACI=D3N">IDEA=20
+  DE CORRELACI=D3N</A></FONT> </P>
+  <LI>
+  <P align=3Djustify><FONT color=3D#0000ff face=3D"Comic Sans MS"><A=20
+  =
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#NUBE=
+ DE PUNTOS O DIAGRAMA DE DISPERSI=D3N">NUBE=20
+  DE PUNTOS O DIAGRAMA DE DISPERSI=D3N</A></FONT> </P>
+  <LI>
+  <P align=3Djustify><FONT color=3D#0000ff face=3D"Comic Sans MS"><A=20
+  =
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#CORR=
+ELACI=D3N LINEAL Y RECTA DE REGRESI=D3N.">CORRELACI=D3N=20
+  LINEAL Y RECTA DE REGRESI=D3N</A></FONT> </P>
+  <LI>
+  <P align=3Djustify><FONT color=3D#0000ff face=3D"Comic Sans MS"><A=20
+  =
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#MEDI=
+DA DE LA CORRELACI=D3N">MEDIDA=20
+  DE LA CORRELACI=D3N</A></FONT> </P>
+  <LI>
+  <P align=3Djustify><FONT face=3D"Comic Sans MS"><FONT =
+color=3D#0000ff><A=20
+  =
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#ESTI=
+MACI=D3N MEDIANTE LA RECTA DE REGRESI=D3N">ESTIMACI=D3N=20
+  MEDIANTE LA RECTA DE REGRESI=D3N</A></FONT> </FONT></P>
+  <LI>
+  <P align=3Djustify><FONT color=3D#0000ff face=3D"Comic Sans MS"><A=20
+  =
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#PROP=
+IEDADES DE LA RECTA DE REGRESI=D3N DE LOS M=CDNIMOS">PROPIEDADES=20
+  DE LA RECTA DE REGRESI=D3N DE LOS M=CDNIMOS CUADR=C1TICOS.</A></FONT> =
+</P></LI></OL>
+<HR>
+<B><I><FONT color=3D#800000 size=3D4 face=3D"Comic Sans MS">
+<P align=3Dcenter><SPAN style=3D"BACKGROUND-COLOR: #ffcccc"><A=20
+name=3DIntroducci=F3n>Introducci=F3n</A></SPAN></P></FONT></I></B><FONT=20
+face=3D"Comic Sans MS">
+<P align=3Djustify>Si sobre una poblaci=F3n de ni=F1os entre 0 y 6 =
+a=F1os, estudiamos=20
+las variables peso y estatura, esperamos que en general ocurra que a =
+mayor=20
+estatura tambi=E9n encontremos mayor peso, aunque es posible que en =
+algunos pocos=20
+casos no ocurra as=ED.</P>
+<P align=3Djustify>Vemos que existe una relaci=F3n entre las dos =
+variables, aunque=20
+no es funcional, o sea, no puedo determinar con exactitud el peso que=20
+corresponder=E1 a cada talla.</P>
+<P align=3Djustify>En este tema trataremos de describir y medir este =
+tipo de=20
+relaciones, que aparecen en gran cantidad de problemas.</P>
+<P align=3Djustify><FONT color=3D#ff0000>Anota en tu cuaderno los =
+conceptos que vas=20
+encontrando. Debes ser capaz de describirlos =
+posteriormente.</FONT></P><B><I>
+<P align=3Dright><FONT color=3D#99ffcc size=3D2><A=20
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#Indi=
+ce"><SPAN=20
+style=3D"BACKGROUND-COLOR: #ccffff">Volver al=20
+=EDndice</SPAN></A></FONT></P></I></B></FONT><B><I><FONT color=3D#800000 =
+size=3D4=20
+face=3D"Comic Sans MS">
+<HR>
+
+<P align=3Dcenter><SPAN style=3D"BACKGROUND-COLOR: #ffcccc"><A=20
+name=3D"DISTRIBUCIONES BIDIMENSIONALES">DISTRIBUCIONES=20
+BIDIMENSIONALES</A></SPAN></P></FONT></I></B><FONT face=3D"Comic Sans =
+MS">
+<P align=3Djustify><FONT color=3D#000080 size=3D4 face=3D"Comic Sans =
+MS">Cuando sobre=20
+una poblaci=F3n estudiamos simult=E1neamente los valores de dos =
+variables=20
+estad=EDsticas, el conjunto de los pares de valores correspondientes a =
+cada=20
+individuo se denomina </FONT><FONT size=3D4 face=3D"Comic Sans MS"><FONT =
+
+color=3D#ff0066>distribuci=F3n bidimensional</FONT></FONT><FONT =
+color=3D#000080 size=3D4=20
+face=3D"Comic Sans MS">.</FONT></P><U>
+<P align=3Djustify><SPAN style=3D"BACKGROUND-COLOR: #ccff99"><FONT=20
+color=3D#000080><I>Ejemplo 1:</I></FONT></SPAN></P></U>
+<P align=3Djustify>Las notas de 10 alumnos en Matem=E1ticas y en Lengua =
+vienen dadas=20
+en la siguiente tabla:</P></FONT>
+<CENTER>
+<TABLE border=3D1 cellSpacing=3D1 borderColorLight=3D#ff9999 =
+borderColorDark=3D#800000=20
+cellPadding=3D4 width=3D440 height=3D70>
+  <TBODY>
+  <TR>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"31%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>MATEM=C1TICAS</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>2</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>4</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>5</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>5</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>6</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>6</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>7</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>7</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>8</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>9</FONT></P></TD></TR>
+  <TR>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"31%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>LENGUA</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>2</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>2</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>5</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>6</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>5</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>7</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>5</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>8</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>7</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P =
+align=3Dcenter>10</FONT></P></TD></TR></TBODY></TABLE></CENTER><FONT=20
+face=3D"Comic Sans MS">
+<P align=3Djustify>Los pares de valores =
+{(2,2),(4,2),(5,5),...;(8,7),(9,10)},=20
+forman la distribuci=F3n bidimensional.</P><B><I><FONT face=3D"Comic =
+Sans MS">
+<P align=3Dright><FONT color=3D#99ffcc size=3D2><A=20
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#Indi=
+ce"><SPAN=20
+style=3D"BACKGROUND-COLOR: #ccffff">Volver al=20
+=EDndice</SPAN></A></FONT></P></FONT></I></B></FONT><B><I><FONT =
+color=3D#800000=20
+size=3D4 face=3D"Comic Sans MS">
+<HR>
+
+<P align=3Dcenter><SPAN style=3D"BACKGROUND-COLOR: #ffcccc"><A=20
+name=3D"IDEA DE CORRELACI=D3N">IDEA DE =
+CORRELACI=D3N</A></SPAN></P></FONT></I></B>
+<P align=3Djustify><FONT size=3D4 face=3D"Comic Sans MS"><FONT =
+color=3D#000080>Es=20
+frecuente que estudiemos sobre una misma poblaci=F3n los valores de dos =
+variables=20
+estad=EDsticas distintas, con el fin de ver si existe alguna relaci=F3n =
+entre ellas,=20
+es decir, si los cambios en una de ellas influyen en los valores de la =
+otra. Si=20
+ocurre esto decimos que</FONT> <FONT color=3D#ff0000=20
+face=3D"Comic Sans MS">l</FONT><FONT color=3D#ff0066 face=3D"Comic Sans =
+MS">as=20
+variables est=E1n correlacionadas</FONT> <FONT color=3D#000080>o bien =
+que hay</FONT>=20
+<FONT color=3D#ff0066 face=3D"Comic Sans MS">correlaci=F3n</FONT> <FONT=20
+color=3D#000080>entre ellas.</FONT></FONT></P><FONT face=3D"Comic Sans =
+MS">
+<P align=3Djustify>En el ejemplo anterior parece que hay cierta =
+tendencia a que=20
+cuanto mejor es la nota en Matem=E1ticas, mejor es la de =
+lengua.</P><B><I><FONT=20
+face=3D"Comic Sans MS">
+<P align=3Dright><FONT color=3D#99ffcc size=3D2><A=20
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#Indi=
+ce"><SPAN=20
+style=3D"BACKGROUND-COLOR: #ccffff">Volver al=20
+=EDndice</SPAN></A></FONT></P></FONT></I></B></FONT><B><I><FONT =
+color=3D#800000=20
+size=3D4 face=3D"Comic Sans MS">
+<HR>
+
+<P align=3Dcenter><SPAN style=3D"BACKGROUND-COLOR: #ffcccc"><A=20
+name=3D"NUBE DE PUNTOS O DIAGRAMA DE DISPERSI=D3N">NUBE DE PUNTOS O =
+DIAGRAMA DE=20
+DISPERSI=D3N</A></SPAN></P></FONT></I></B>
+<P align=3Djustify><FONT color=3D#000080 size=3D4 face=3D"Comic Sans =
+MS">La primera=20
+forma de describir una distribuci=F3n bidimensional es representar los =
+pares de=20
+valores en el plano cartesiano. El gr=E1fico obtenido recibe el nombre =
+de=20
+</FONT><FONT color=3D#ff0066 size=3D4 face=3D"Comic Sans MS">nube de =
+puntos=20
+</FONT><FONT color=3D#000080 size=3D4 face=3D"Comic Sans MS">o =
+</FONT><FONT=20
+color=3D#ff0066 size=3D4 face=3D"Comic Sans MS">diagrama de =
+dispersi=F3n</FONT><FONT=20
+color=3D#000080 size=3D4 face=3D"Comic Sans MS">.</FONT></P><FONT =
+color=3D#ff0000=20
+face=3D"Comic Sans MS">
+<P align=3Dcenter><FONT color=3D#800000><IMG=20
+src=3D"http://recursostic.educacion.es/descartes/web/materiales_didactico=
+s/Correlacion_regresion_recta_regresion/Image1.gif"=20
+width=3D611 height=3D263></FONT></P><B><I><FONT face=3D"Comic Sans =
+MS"><FONT=20
+face=3D"Comic Sans MS">
+<P align=3Dright><FONT color=3D#99ffcc size=3D2><A=20
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#Indi=
+ce"><SPAN=20
+style=3D"BACKGROUND-COLOR: #ccffff">Volver al=20
+=EDndic</SPAN></A></FONT></FONT></FONT></FONT><FONT color=3D#99ffcc =
+size=3D2=20
+face=3D"Comic Sans MS"><A=20
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#Indi=
+ce"><SPAN=20
+style=3D"BACKGROUND-COLOR: =
+#ccffff">e</SPAN></A></FONT></P></I></B><B><I><FONT=20
+color=3D#800000 size=3D4 face=3D"Comic Sans MS">
+<HR>
+
+<P align=3Dcenter><SPAN style=3D"BACKGROUND-COLOR: #ffcccc"><A=20
+name=3D"CORRELACI=D3N LINEAL Y RECTA DE REGRESI=D3N.">CORRELACI=D3N =
+LINEAL Y RECTA DE=20
+REGRESI=D3N.</A></SPAN></P></FONT></I></B>
+<P align=3Djustify><FONT size=3D4 face=3D"Comic Sans MS"><FONT =
+color=3D#000080>Cuando=20
+observamos una nube de puntos podemos apreciar si los puntos se agrupan =
+cerca de=20
+alguna curva. Aqu=ED nos limitaremos a ver si los puntos se distribuyen =
+alrededor=20
+de una recta. Si as=ED ocurre diremos que hay</FONT> <FONT =
+color=3D#ff0066=20
+face=3D"Comic Sans MS">correlaci=F3n</FONT><FONT color=3D#ff0000 =
+face=3D"Comic Sans MS">=20
+</FONT><FONT color=3D#ff0066 face=3D"Comic Sans MS">lineal</FONT><FONT=20
+color=3D#000080>. La recta se denomina </FONT><FONT color=3D#ff0066=20
+face=3D"Comic Sans MS">recta</FONT><FONT color=3D#ff0000 face=3D"Comic =
+Sans MS">=20
+</FONT><FONT color=3D#ff0066 face=3D"Comic Sans MS">de</FONT><FONT =
+color=3D#ff0000=20
+face=3D"Comic Sans MS"> </FONT><FONT color=3D#ff0066=20
+face=3D"Comic Sans MS">regresi=F3n</FONT><FONT=20
+color=3D#000080>.</FONT></FONT></P><FONT face=3D"Comic Sans MS">
+<P align=3Dcenter><IMG=20
+src=3D"http://recursostic.educacion.es/descartes/web/materiales_didactico=
+s/Correlacion_regresion_recta_regresion/Image2.gif"=20
+width=3D611 height=3D263></P>
+<P align=3Djustify><FONT size=3D4><FONT color=3D#000080>Hablaremos =
+de</FONT> <FONT=20
+color=3D#ff0066>correlaci=F3n lineal fuerte</FONT> <FONT =
+color=3D#000080>cuando la=20
+nube se parezca mucho a una recta y ser=E1 cada vez </FONT><FONT =
+color=3D#ff0066>m=E1s=20
+d=E9bil (o menos fuerte) </FONT><FONT color=3D#000080>cuando la nube =
+vaya=20
+desparram=E1ndose con respecto a la recta.</FONT></FONT></P>
+<P align=3Djustify>En el gr=E1fico observamos que en nuestro ejemplo la =
+correlaci=F3n=20
+es bastante fuerte, ya que la recta que hemos dibujado est=E1 pr=F3xima =
+a los puntos=20
+de la nube.</P>
+<P align=3Djustify><FONT size=3D4><FONT color=3D#000080>Cuando la recta =
+es creciente=20
+</FONT><FONT color=3D#ff0066>la correlaci=F3n es positiva o =
+directa</FONT><FONT=20
+color=3D#000080>: al aumentar una variable, la otra tiene tambi=E9n =
+tendencia a=20
+aumentar, como en el ejemplo anterior. Cuando la recta es =
+decreciente</FONT>=20
+<FONT color=3D#ff0066>la correlaci=F3n es negativa o inversa</FONT><FONT =
+
+color=3D#000080>:</FONT> <FONT color=3D#000080>al aumentar una variable, =
+la otra=20
+tiene tendencia a disminuir.</FONT></FONT></P>
+<P align=3Djustify><SPAN style=3D"BACKGROUND-COLOR: #ccff99"><FONT=20
+color=3D#000080><U><I>Ejemplo 2:</I></U></FONT></SPAN></P>
+<P style=3D"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=3Djustify>Una =
+persona se=20
+entrena para obtener el carnet de conducir repitiendo un test de 50 =
+preguntas.=20
+En la gr=E1fica se describen el n=BA de errores que corresponden a los =
+intentos=20
+realizados.</P>
+<P style=3D"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=3Djustify>Observa =
+que hay una=20
+correlaci=F3n muy fuerte (los puntos est=E1n "casi" alineados) y =
+negativa (la recta=20
+es decreciente).</P>
+<P style=3D"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=3Dcenter><IMG =
+border=3D0=20
+src=3D"http://recursostic.educacion.es/descartes/web/materiales_didactico=
+s/Correlacion_regresion_recta_regresion/imagen4.gif"=20
+width=3D474 height=3D278></P>
+<P align=3Djustify><SPAN style=3D"BACKGROUND-COLOR: #ccff99"><FONT=20
+color=3D#000080><U><I>Ejemplo 3:</I></U></FONT></SPAN></P>
+<P style=3D"MARGIN-BOTTOM: 6px" align=3Djustify>A 12 alumnos de un =
+centro se les=20
+pregunt=F3 a qu=E9 distancia estaba su residencia del Instituto, con fin =
+de estudiar=20
+si esta variable estaba relacionada con la nota media obtenida. Se =
+obtuvieron=20
+los datos que figuran en la siguiente tabla:</P>
+<CENTER>
+<TABLE border=3D1 cellSpacing=3D1 borderColorLight=3D#ff9999 =
+borderColorDark=3D#800000=20
+cellPadding=3D4>
+  <TBODY>
+  <TR>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>Distancia (en km)</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>0,05</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>0,1</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>0,12</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>0,4</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>0,5</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>0,7</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>1</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>1,2</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>2,1</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>2,5</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>3</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>3</FONT></P></TD></TR>
+  <TR>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>Nota media</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>8,4</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>4</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>5,7</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>9,1</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>6,3</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>6,7</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>4,3</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>5,4</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>7,8</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>4,5</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P align=3Dcenter>7,2</FONT></P></TD>
+    <TD vAlign=3Dmiddle align=3Dcenter><FONT face=3D"Comic Sans MS">
+      <P =
+align=3Dcenter>8,1</FONT></P></TD></TR></TBODY></TABLE></CENTER>
+<P align=3Dcenter><IMG=20
+src=3D"http://recursostic.educacion.es/descartes/web/materiales_didactico=
+s/Correlacion_regresion_recta_regresion/Image3.gif"=20
+width=3D589 height=3D225></P>
+<P align=3Djustify>Observamos una nube de puntos que no nos sugiere =
+ninguna recta=20
+concreta, porque la correlaci=F3n es pr=E1cticamente inexistente, es =
+decir, no tiene=20
+nada que ver con el rendimiento acad=E9mico la distancia del domicilio =
+al=20
+instituto,</P><B><I><FONT face=3D"Comic Sans MS">
+<P align=3Dright><FONT color=3D#99ffcc size=3D2><A=20
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#Indi=
+ce"><SPAN=20
+style=3D"BACKGROUND-COLOR: #ccffff">Volver al=20
+=EDndice</SPAN></A></FONT></P></FONT></I></B>
+<HR>
+</FONT><B><I><FONT color=3D#800000 size=3D4 face=3D"Comic Sans MS">
+<P align=3Dcenter><SPAN style=3D"BACKGROUND-COLOR: #ffcccc"><A=20
+name=3D"MEDIDA DE LA CORRELACI=D3N">MEDIDA DE LA=20
+CORRELACI=D3N</A></SPAN></P></FONT></I></B><FONT face=3D"Comic Sans MS">
+<P align=3Djustify>La apreciaci=F3n visual de la existencia de =
+correlaci=F3n no es=20
+suficiente. </FONT><FONT size=3D4 face=3D"Comic Sans MS"><FONT=20
+color=3D#000080>Usaremos un par=E1metro, llamado </FONT><FONT =
+color=3D#ff0066=20
+face=3D"Comic Sans MS">coeficiente</FONT><FONT color=3D#ff0000 =
+face=3D"Comic Sans MS">=20
+</FONT><FONT color=3D#ff0066 face=3D"Comic Sans MS">de</FONT><FONT =
+color=3D#ff0000=20
+face=3D"Comic Sans MS"> </FONT><FONT color=3D#ff0066=20
+face=3D"Comic Sans MS">correlaci=F3n</FONT> <FONT color=3D#000080>que =
+denotaremos con=20
+la letra</FONT> <FONT color=3D#ff0066 face=3D"Comic Sans =
+MS">r</FONT><FONT=20
+color=3D#000080>, que nos permite valorar si =E9sta es fuerte o d=E9bil, =
+positiva o=20
+negativa.</FONT></FONT> <FONT face=3D"Comic Sans MS">&nbsp;</P>
+<P align=3Djustify>El c=E1lculo es una tarea mec=E1nica, que podemos =
+realizar con una=20
+calculadora o un programa inform=E1tico. Nuestro inter=E9s est=E1 en =
+saber=20
+interpretarlo.</P>
+<P align=3Djustify>Antes de ponernos a trabajar destacaremos una de sus=20
+propiedades</P>
+<P align=3Dcenter><FONT color=3D#000080 size=3D4>-1 &lt; r &lt; =
+1</FONT></P>
+<P align=3Djustify>A continuaci=F3n tienes unos ejes con una nube de =
+puntos que=20
+puedes modificar haciendo clic sobre ellos con el rat=F3n y=20
+arrastr=E1ndolos.&nbsp;No tengas miedo de equivocarte, siempre puedes =
+volver a la=20
+posici=F3n inicial pulsando el bot=F3n inicio. Las coordenadas de los =
+puntos las=20
+puedes saber con aproximaci=F3n naciendo clic en cualquier punto del =
+plano y=20
+arrastrando hasta colocarte encima del punto.</P>
+<P align=3Dcenter><APPLET=20
+archive=3Ddescinst.jar,http://recursostic.educacion.es/descartes/web/plug=
+in/descinst.jar=20
+code=3Ddescinst.Descartes.class width=3D570 height=3D300 =
+MAYSCRIPT><PARAM NAME=3D"Versi=F3n" VALUE=3D"2.43"><PARAM =
+NAME=3D"Idioma" VALUE=3D"espa=F1ol"><PARAM NAME=3D"Botones" =
+VALUE=3D"cr=E9ditos=3Dsi config=3Dsi inicio=3Dsi limpiar=3Dno"><PARAM =
+NAME=3D"Espacio" VALUE=3D"fondo=3DgrisObscuro red=3Dnegro red10=3Dgris =
+ejes=3Dgris texto=3DgrisClaro"><PARAM NAME=3D"C_00" VALUE=3D"id=3Descala =
+tipo=3Dnum=E9rico valor=3D'20' decimales=3D'4*(escala<10)' =
+incr=3D'0.1*escala' min=3D'0.001' max=3D'1000000' nombre=3Dzoom =
+regi=F3n=3Dnorte"><PARAM NAME=3D"C_01" VALUE=3D"id=3DOx =
+tipo=3Dnum=E9rico valor=3D'-270' decimales=3D'0' incr=3D'100' =
+nombre=3DO.x regi=F3n=3Dnorte"><PARAM NAME=3D"C_02" VALUE=3D"id=3DOy =
+tipo=3Dnum=E9rico valor=3D'100' decimales=3D'0' incr=3D'100' =
+nombre=3DO.y regi=F3n=3Dnorte"><PARAM NAME=3D"C_03" VALUE=3D"id=3DA =
+tipo=3Dgr=E1fico expresi=F3n=3D'[2,2]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D3"><PARAM NAME=3D"C_04" VALUE=3D"id=3DB tipo=3Dgr=E1fico =
+expresi=F3n=3D'[4,2]' color=3Drojo decimales=3D'2' tama=F1o=3D3"><PARAM =
+NAME=3D"C_05" VALUE=3D"id=3DC tipo=3Dgr=E1fico expresi=F3n=3D'[5,4]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_06" =
+VALUE=3D"id=3DD tipo=3Dgr=E1fico expresi=F3n=3D'[5,5]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_07" VALUE=3D"id=3DE =
+tipo=3Dgr=E1fico expresi=F3n=3D'[5,6]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D3"><PARAM NAME=3D"C_08" VALUE=3D"id=3DF tipo=3Dgr=E1fico =
+expresi=F3n=3D'[6,5]' color=3Drojo decimales=3D'2' tama=F1o=3D3"><PARAM =
+NAME=3D"C_09" VALUE=3D"id=3DG tipo=3Dgr=E1fico expresi=F3n=3D'[6,6]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_10" =
+VALUE=3D"id=3DH tipo=3Dgr=E1fico expresi=F3n=3D'[6,7]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_11" VALUE=3D"id=3DI =
+tipo=3Dgr=E1fico expresi=F3n=3D'[7,5]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D3"><PARAM NAME=3D"C_12" VALUE=3D"id=3DJ tipo=3Dgr=E1fico =
+expresi=F3n=3D'[7,8]' color=3Drojo decimales=3D'2' tama=F1o=3D3"><PARAM =
+NAME=3D"C_13" VALUE=3D"id=3DK tipo=3Dgr=E1fico expresi=F3n=3D'[8,7]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_14" =
+VALUE=3D"id=3DL tipo=3Dgr=E1fico expresi=F3n=3D'[9,10]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"A_00" VALUE=3D"id=3Dmx =
+expresi=F3n=3D'(A.x+B.x+C.x+D.x+E.x+F.x+G.x+H.x+I.x+J.x+K.x+L.x)/12'"><PA=
+RAM NAME=3D"A_01" VALUE=3D"id=3Dmy =
+expresi=F3n=3D'(A.y+B.y+C.y+D.y+E.y+F.y+G.y+H.y+I.y+J.y+K.y+L.y)/12'"><PA=
+RAM NAME=3D"A_02" VALUE=3D"id=3Dvx =
+expresi=F3n=3D'(A.x^2+B.x^2+C.x^2+D.x^2+E.x^2+F.x^2+G.x^2+H.x^2+I.x^2+J.x=
+^2+K.x^2+L.x^2)/12-mx^2'"><PARAM NAME=3D"A_03" VALUE=3D"id=3Dvy =
+expresi=F3n=3D'(A.y^2+B.y^2+C.y^2+D.y^2+E.y^2+F.y^2+G.y^2+H.y^2+I.y^2+J.y=
+^2+K.y^2+L.y^2)/12-my^2'"><PARAM NAME=3D"A_04" VALUE=3D"id=3Dcv =
+expresi=F3n=3D'(A.x*A.y+B.x*B.y+C.x*C.y+D.x*D.y+E.x*E.y+F.x*F.y+G.x*G.y+H=
+.x*H.y+I.x*I.y+J.x*J.y+K.x*K.y+L.x*L.y)/12-mx*my'"><PARAM NAME=3D"G_00" =
+VALUE=3D"tipo=3Decuaci=F3n expresi=F3n=3D'y=3Dmy+(cv/vx)*(x-mx)' =
+color=3Dturquesa visible=3Dno"><PARAM NAME=3D"G_01" =
+VALUE=3D"tipo=3Dtexto expresi=F3n=3D'[400,30]' color=3Dverde texto=3D'r =
+=3D [cv/(vx^(1/2)*vy^(1/2))]'"></APPLET>=20
+</P>
+<P align=3Djustify>Observa el valor de r, as=ED como el ajuste de la =
+nube a la=20
+recta. Intenta deducir las propiedades de r, relacionando su valor con =
+la forma=20
+de la nube y realizando los siguientes ejercicios.=20
+<OL>
+  <LI>
+  <P align=3Djustify>Acerca los puntos a la recta. =BFHacia qu=E9 valor =
+se aproxima r?=20
+  </P>
+  <LI>
+  <P align=3Djustify>Aleja los puntos de la recta, separ=E1ndolos entre =
+s=ED =BFHacia=20
+  qu=E9 valor se aproxima r? </P>
+  <LI>
+  <P align=3Djustify>Mueve los puntos hasta que la recta tenga pendiente =
+negativa,=20
+  es decir, sea decreciente. En estas condiciones contesta a las =
+preguntas=20
+  anteriores. </P>
+  <LI>
+  <P align=3Djustify>Si alineas todos los puntos =BFQu=E9 valor&nbsp; =
+aproximadamente=20
+  toma r? </P></LI></OL>
+<P align=3Djustify>Anota tus conclusiones en tu cuaderno; puedes =
+ayudarte con el=20
+siguiente esquema:</P>
+<P align=3Dcenter>
+<TABLE border=3D1 cellSpacing=3D1 borderColorLight=3D#ff9999 =
+borderColorDark=3D#800000=20
+cellPadding=3D4 width=3D729 height=3D762>
+  <TBODY>
+  <TR>
+    <TD height=3D49 borderColorLight=3D#ff9999 vAlign=3Dbottom =
+borderColor=3D#c0c0c0=20
+    rowSpan=3D2 width=3D142 borderColorDark=3D#800000 align=3Dcenter>
+      <P>&nbsp;</P><FONT face=3D"Comic Sans MS"><FONT color=3D#800080=20
+      face=3D"Comic Sans MS">
+      <P align=3Dcenter>Valor de r</FONT> </FONT></P></TD>
+    <TD height=3D23 vAlign=3Dbottom width=3D232 align=3Dcenter><FONT =
+color=3D#800080=20
+      face=3D"Comic Sans MS">
+      <P align=3Dcenter>Tipo de correlaci=F3n</FONT></P></TD>
+    <TD height=3D49 vAlign=3Dbottom rowSpan=3D2 width=3D315 =
+align=3Dcenter>
+      <P>&nbsp;</P><FONT face=3D"Comic Sans MS"><FONT color=3D#800080=20
+      face=3D"Comic Sans MS">
+      <P align=3Dcenter>Nube de puntos</FONT> </FONT></P></TD></TR>
+  <TR>
+    <TD height=3D26 vAlign=3Dtop width=3D220 align=3Dcenter><FONT=20
+      face=3D"Comic Sans MS">muy fuerte; fuerte; d=E9bil;</FONT></FONT> =
+<FONT=20
+      face=3D"Comic Sans MS">muy d=E9bil; inversa; =
+directa</FONT></TD></TR>
+  <TR>
+    <TD height=3D91 vAlign=3Dtop width=3D142 align=3Dcenter><FONT=20
+face=3D"Comic Sans MS">
+      <P align=3Djustify>r&gt;0</FONT> </FONT><FONT face=3D"Comic Sans =
+MS">r pr=F3ximo=20
+      a 1</P></FONT></TD>
+    <TD height=3D91 vAlign=3Dtop width=3D220 align=3Dcenter>&nbsp;<FONT=20
+      face=3D"Comic Sans MS">=20
+      <P>&nbsp;</P></FONT></TD>
+    <TD height=3D106 vAlign=3Dtop width=3D315 align=3Dcenter>&nbsp;<FONT =
+
+      face=3D"Comic Sans MS"><APPLET=20
+      =
+archive=3Ddescinst.jar,http://recursostic.educacion.es/descartes/web/plug=
+in/descinst.jar=20
+      code=3Ddescinst.Descartes.class width=3D300 height=3D200 =
+MAYSCRIPT><PARAM NAME=3D"Versi=F3n" VALUE=3D"2.20"><PARAM =
+NAME=3D"Idioma" VALUE=3D"espa=F1ol"><PARAM NAME=3D"Botones" =
+VALUE=3D"cr=E9ditos=3Dsi config=3Dsi inicio=3Dsi limpiar=3Dno"><PARAM =
+NAME=3D"Espacio" VALUE=3D"fondo=3DgrisObscuro red=3Dnegro red10=3Dgris =
+ejes=3Dgris texto=3DgrisClaro"><PARAM NAME=3D"C_00" VALUE=3D"id=3Descala =
+tipo=3Dnum=E9rico valor=3D'12' decimales=3D'4*(escala<10)' =
+incr=3D'0.1*escala' min=3D'0.001' max=3D'1000000' nombre=3Dzoom =
+regi=F3n=3Dnorte"><PARAM NAME=3D"C_01" VALUE=3D"id=3DOx =
+tipo=3Dnum=E9rico valor=3D'-110' decimales=3D'0' incr=3D'100' =
+nombre=3DO.x regi=F3n=3Dnorte"><PARAM NAME=3D"C_02" VALUE=3D"id=3DOy =
+tipo=3Dnum=E9rico valor=3D'60' decimales=3D'0' incr=3D'100' nombre=3DO.y =
+regi=F3n=3Dnorte"><PARAM NAME=3D"C_03" VALUE=3D"id=3DA tipo=3Dgr=E1fico =
+expresi=F3n=3D'[2,2]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_04" VALUE=3D"id=3DB tipo=3Dgr=E1fico expresi=F3n=3D'[4,2]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_05" =
+VALUE=3D"id=3DC tipo=3Dgr=E1fico expresi=F3n=3D'[5,4]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_06" VALUE=3D"id=3DD =
+tipo=3Dgr=E1fico expresi=F3n=3D'[5,5]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"C_07" VALUE=3D"id=3DE tipo=3Dgr=E1fico =
+expresi=F3n=3D'[5,6]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_08" VALUE=3D"id=3DF tipo=3Dgr=E1fico expresi=F3n=3D'[6,5]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_09" =
+VALUE=3D"id=3DG tipo=3Dgr=E1fico expresi=F3n=3D'[6,6]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_10" VALUE=3D"id=3DH =
+tipo=3Dgr=E1fico expresi=F3n=3D'[6,7]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"C_11" VALUE=3D"id=3DI tipo=3Dgr=E1fico =
+expresi=F3n=3D'[7,5]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_12" VALUE=3D"id=3DJ tipo=3Dgr=E1fico expresi=F3n=3D'[7,8]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_13" =
+VALUE=3D"id=3DK tipo=3Dgr=E1fico expresi=F3n=3D'[8,7]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_14" VALUE=3D"id=3DL =
+tipo=3Dgr=E1fico expresi=F3n=3D'[9,10]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"A_00" VALUE=3D"id=3Dmx =
+expresi=F3n=3D'(A.x+B.x+C.x+D.x+E.x+F.x+G.x+H.x+I.x+J.x+K.x+L.x)/12'"><PA=
+RAM NAME=3D"A_01" VALUE=3D"id=3Dmy =
+expresi=F3n=3D'(A.y+B.y+C.y+D.y+E.y+F.y+G.y+H.y+I.y+J.y+K.y+L.y)/12'"><PA=
+RAM NAME=3D"A_02" VALUE=3D"id=3Dvx =
+expresi=F3n=3D'(A.x^2+B.x^2+C.x^2+D.x^2+E.x^2+F.x^2+G.x^2+H.x^2+I.x^2+J.x=
+^2+K.x^2+L.x^2)/12-mx^2'"><PARAM NAME=3D"A_03" VALUE=3D"id=3Dvy =
+expresi=F3n=3D'(A.y^2+B.y^2+C.y^2+D.y^2+E.y^2+F.y^2+G.y^2+H.y^2+I.y^2+J.y=
+^2+K.y^2+L.y^2)/12-my^2'"><PARAM NAME=3D"A_04" VALUE=3D"id=3Dcv =
+expresi=F3n=3D'(A.x*A.y+B.x*B.y+C.x*C.y+D.x*D.y+E.x*E.y+F.x*F.y+G.x*G.y+H=
+.x*H.y+I.x*I.y+J.x*J.y+K.x*K.y+L.x*L.y)/12-mx*my'"><PARAM NAME=3D"G_00" =
+VALUE=3D"tipo=3Decuaci=F3n expresi=F3n=3D'y=3Dmy+(cv/vx)*(x-mx)' =
+color=3Dturquesa visible=3Dno"><PARAM NAME=3D"G_01" =
+VALUE=3D"tipo=3Dtexto expresi=F3n=3D'[160,100]' color=3Dverde texto=3D'r =
+=3D [cv/(vx^(1/2)*vy^(1/2))]'"></APPLET>=20
+      </FONT></TD></TR>
+  <TR>
+    <TD height=3D108 vAlign=3Dtop width=3D142 align=3Dcenter><FONT=20
+      face=3D"Comic Sans MS">
+      <P align=3Djustify>r&gt;0</FONT> </FONT><FONT face=3D"Comic Sans =
+MS">r pr=F3ximo=20
+      a 0</P></FONT></TD>
+    <TD height=3D108 vAlign=3Dtop width=3D220 =
+align=3Dcenter>&nbsp;&nbsp;<FONT=20
+      face=3D"Comic Sans MS">=20
+      <P>&nbsp;&nbsp;</P></FONT></TD>
+    <TD height=3D108 vAlign=3Dtop width=3D315 =
+align=3Dcenter>&nbsp;&nbsp;<FONT=20
+      face=3D"Comic Sans MS"><APPLET=20
+      =
+archive=3Ddescinst.jar,http://recursostic.educacion.es/descartes/web/plug=
+in/descinst.jar=20
+      code=3Ddescinst.Descartes.class width=3D300 height=3D200 =
+MAYSCRIPT><PARAM NAME=3D"Versi=F3n" VALUE=3D"2.20"><PARAM =
+NAME=3D"Idioma" VALUE=3D"espa=F1ol"><PARAM NAME=3D"Botones" =
+VALUE=3D"cr=E9ditos=3Dsi config=3Dsi inicio=3Dsi limpiar=3Dno"><PARAM =
+NAME=3D"Espacio" VALUE=3D"fondo=3DgrisObscuro red=3Dnegro red10=3Dgris =
+ejes=3Dgris texto=3DgrisClaro"><PARAM NAME=3D"C_00" VALUE=3D"id=3Descala =
+tipo=3Dnum=E9rico valor=3D'12' decimales=3D'4*(escala<10)' =
+incr=3D'0.1*escala' min=3D'0.001' max=3D'1000000' nombre=3Dzoom =
+regi=F3n=3Dnorte"><PARAM NAME=3D"C_01" VALUE=3D"id=3DOx =
+tipo=3Dnum=E9rico valor=3D'-110' decimales=3D'0' incr=3D'100' =
+nombre=3DO.x regi=F3n=3Dnorte"><PARAM NAME=3D"C_02" VALUE=3D"id=3DOy =
+tipo=3Dnum=E9rico valor=3D'60' decimales=3D'0' incr=3D'100' nombre=3DO.y =
+regi=F3n=3Dnorte"><PARAM NAME=3D"C_03" VALUE=3D"id=3DA tipo=3Dgr=E1fico =
+expresi=F3n=3D'[2,2]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_04" VALUE=3D"id=3DB tipo=3Dgr=E1fico expresi=F3n=3D'[4,2]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_05" =
+VALUE=3D"id=3DC tipo=3Dgr=E1fico expresi=F3n=3D'[5,4]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_06" VALUE=3D"id=3DD =
+tipo=3Dgr=E1fico expresi=F3n=3D'[5,5]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"C_07" VALUE=3D"id=3DE tipo=3Dgr=E1fico =
+expresi=F3n=3D'[5,6]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_08" VALUE=3D"id=3DF tipo=3Dgr=E1fico expresi=F3n=3D'[6,5]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_09" =
+VALUE=3D"id=3DG tipo=3Dgr=E1fico expresi=F3n=3D'[6,6]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_10" VALUE=3D"id=3DH =
+tipo=3Dgr=E1fico expresi=F3n=3D'[6,7]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"C_11" VALUE=3D"id=3DI tipo=3Dgr=E1fico =
+expresi=F3n=3D'[7,5]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_12" VALUE=3D"id=3DJ tipo=3Dgr=E1fico expresi=F3n=3D'[7,8]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_13" =
+VALUE=3D"id=3DK tipo=3Dgr=E1fico expresi=F3n=3D'[8,7]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_14" VALUE=3D"id=3DL =
+tipo=3Dgr=E1fico expresi=F3n=3D'[9,10]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"A_00" VALUE=3D"id=3Dmx =
+expresi=F3n=3D'(A.x+B.x+C.x+D.x+E.x+F.x+G.x+H.x+I.x+J.x+K.x+L.x)/12'"><PA=
+RAM NAME=3D"A_01" VALUE=3D"id=3Dmy =
+expresi=F3n=3D'(A.y+B.y+C.y+D.y+E.y+F.y+G.y+H.y+I.y+J.y+K.y+L.y)/12'"><PA=
+RAM NAME=3D"A_02" VALUE=3D"id=3Dvx =
+expresi=F3n=3D'(A.x^2+B.x^2+C.x^2+D.x^2+E.x^2+F.x^2+G.x^2+H.x^2+I.x^2+J.x=
+^2+K.x^2+L.x^2)/12-mx^2'"><PARAM NAME=3D"A_03" VALUE=3D"id=3Dvy =
+expresi=F3n=3D'(A.y^2+B.y^2+C.y^2+D.y^2+E.y^2+F.y^2+G.y^2+H.y^2+I.y^2+J.y=
+^2+K.y^2+L.y^2)/12-my^2'"><PARAM NAME=3D"A_04" VALUE=3D"id=3Dcv =
+expresi=F3n=3D'(A.x*A.y+B.x*B.y+C.x*C.y+D.x*D.y+E.x*E.y+F.x*F.y+G.x*G.y+H=
+.x*H.y+I.x*I.y+J.x*J.y+K.x*K.y+L.x*L.y)/12-mx*my'"><PARAM NAME=3D"G_00" =
+VALUE=3D"tipo=3Decuaci=F3n expresi=F3n=3D'y=3Dmy+(cv/vx)*(x-mx)' =
+color=3Dturquesa visible=3Dno"><PARAM NAME=3D"G_01" =
+VALUE=3D"tipo=3Dtexto expresi=F3n=3D'[160,100]' color=3Dverde texto=3D'r =
+=3D [cv/(vx^(1/2)*vy^(1/2))]'"></APPLET>=20
+      </FONT></TD></TR>
+  <TR>
+    <TD height=3D108 vAlign=3Dtop width=3D142 align=3Dcenter><FONT=20
+      face=3D"Comic Sans MS">
+      <P align=3Djustify>r&lt; 0</FONT> </FONT><FONT face=3D"Comic Sans =
+MS">r=20
+      pr=F3ximo a -1</P></FONT></TD>
+    <TD height=3D108 vAlign=3Dtop width=3D220 align=3Dcenter>&nbsp;<FONT =
+
+      face=3D"Comic Sans MS">=20
+      <P>&nbsp;</P></FONT></TD>
+    <TD height=3D108 vAlign=3Dtop width=3D315 align=3Dcenter>&nbsp;<FONT =
+
+      face=3D"Comic Sans MS"><APPLET=20
+      =
+archive=3Ddescinst.jar,http://recursostic.educacion.es/descartes/web/plug=
+in/descinst.jar=20
+      code=3Ddescinst.Descartes.class width=3D300 height=3D200 =
+MAYSCRIPT><PARAM NAME=3D"Versi=F3n" VALUE=3D"2.20"><PARAM =
+NAME=3D"Idioma" VALUE=3D"espa=F1ol"><PARAM NAME=3D"Botones" =
+VALUE=3D"cr=E9ditos=3Dsi config=3Dsi inicio=3Dsi limpiar=3Dno"><PARAM =
+NAME=3D"Espacio" VALUE=3D"fondo=3DgrisObscuro red=3Dnegro red10=3Dgris =
+ejes=3Dgris texto=3DgrisClaro"><PARAM NAME=3D"C_00" VALUE=3D"id=3Descala =
+tipo=3Dnum=E9rico valor=3D'12' decimales=3D'4*(escala<10)' =
+incr=3D'0.1*escala' min=3D'0.001' max=3D'1000000' nombre=3Dzoom =
+regi=F3n=3Dnorte"><PARAM NAME=3D"C_01" VALUE=3D"id=3DOx =
+tipo=3Dnum=E9rico valor=3D'-110' decimales=3D'0' incr=3D'100' =
+nombre=3DO.x regi=F3n=3Dnorte"><PARAM NAME=3D"C_02" VALUE=3D"id=3DOy =
+tipo=3Dnum=E9rico valor=3D'60' decimales=3D'0' incr=3D'100' nombre=3DO.y =
+regi=F3n=3Dnorte"><PARAM NAME=3D"C_03" VALUE=3D"id=3DA tipo=3Dgr=E1fico =
+expresi=F3n=3D'[2,2]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_04" VALUE=3D"id=3DB tipo=3Dgr=E1fico expresi=F3n=3D'[4,2]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_05" =
+VALUE=3D"id=3DC tipo=3Dgr=E1fico expresi=F3n=3D'[5,4]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_06" VALUE=3D"id=3DD =
+tipo=3Dgr=E1fico expresi=F3n=3D'[5,5]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"C_07" VALUE=3D"id=3DE tipo=3Dgr=E1fico =
+expresi=F3n=3D'[5,6]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_08" VALUE=3D"id=3DF tipo=3Dgr=E1fico expresi=F3n=3D'[6,5]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_09" =
+VALUE=3D"id=3DG tipo=3Dgr=E1fico expresi=F3n=3D'[6,6]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_10" VALUE=3D"id=3DH =
+tipo=3Dgr=E1fico expresi=F3n=3D'[6,7]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"C_11" VALUE=3D"id=3DI tipo=3Dgr=E1fico =
+expresi=F3n=3D'[7,5]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_12" VALUE=3D"id=3DJ tipo=3Dgr=E1fico expresi=F3n=3D'[7,8]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_13" =
+VALUE=3D"id=3DK tipo=3Dgr=E1fico expresi=F3n=3D'[8,7]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_14" VALUE=3D"id=3DL =
+tipo=3Dgr=E1fico expresi=F3n=3D'[9,10]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"A_00" VALUE=3D"id=3Dmx =
+expresi=F3n=3D'(A.x+B.x+C.x+D.x+E.x+F.x+G.x+H.x+I.x+J.x+K.x+L.x)/12'"><PA=
+RAM NAME=3D"A_01" VALUE=3D"id=3Dmy =
+expresi=F3n=3D'(A.y+B.y+C.y+D.y+E.y+F.y+G.y+H.y+I.y+J.y+K.y+L.y)/12'"><PA=
+RAM NAME=3D"A_02" VALUE=3D"id=3Dvx =
+expresi=F3n=3D'(A.x^2+B.x^2+C.x^2+D.x^2+E.x^2+F.x^2+G.x^2+H.x^2+I.x^2+J.x=
+^2+K.x^2+L.x^2)/12-mx^2'"><PARAM NAME=3D"A_03" VALUE=3D"id=3Dvy =
+expresi=F3n=3D'(A.y^2+B.y^2+C.y^2+D.y^2+E.y^2+F.y^2+G.y^2+H.y^2+I.y^2+J.y=
+^2+K.y^2+L.y^2)/12-my^2'"><PARAM NAME=3D"A_04" VALUE=3D"id=3Dcv =
+expresi=F3n=3D'(A.x*A.y+B.x*B.y+C.x*C.y+D.x*D.y+E.x*E.y+F.x*F.y+G.x*G.y+H=
+.x*H.y+I.x*I.y+J.x*J.y+K.x*K.y+L.x*L.y)/12-mx*my'"><PARAM NAME=3D"G_00" =
+VALUE=3D"tipo=3Decuaci=F3n expresi=F3n=3D'y=3Dmy+(cv/vx)*(x-mx)' =
+color=3Dturquesa visible=3Dno"><PARAM NAME=3D"G_01" =
+VALUE=3D"tipo=3Dtexto expresi=F3n=3D'[160,100]' color=3Dverde texto=3D'r =
+=3D [cv/(vx^(1/2)*vy^(1/2))]'"></APPLET>=20
+      </FONT></TD></TR>
+  <TR>
+    <TD height=3D103 vAlign=3Dtop width=3D142 align=3Dcenter><FONT=20
+      face=3D"Comic Sans MS">
+      <P align=3Djustify>r&lt; 0</FONT> </FONT><FONT face=3D"Comic Sans =
+MS">r=20
+      pr=F3ximo a 0</P></FONT></TD>
+    <TD height=3D103 vAlign=3Dtop width=3D220 align=3Dcenter>&nbsp;<FONT =
+
+      face=3D"Comic Sans MS">=20
+      <P>&nbsp;</P></FONT></TD>
+    <TD height=3D103 vAlign=3Dtop width=3D315 align=3Dcenter>&nbsp;<FONT =
+
+      face=3D"Comic Sans MS"><APPLET=20
+      =
+archive=3Ddescinst.jar,http://recursostic.educacion.es/descartes/web/plug=
+in/descinst.jar=20
+      code=3Ddescinst.Descartes.class width=3D300 height=3D200 =
+MAYSCRIPT><PARAM NAME=3D"Versi=F3n" VALUE=3D"2.20"><PARAM =
+NAME=3D"Idioma" VALUE=3D"espa=F1ol"><PARAM NAME=3D"Botones" =
+VALUE=3D"cr=E9ditos=3Dsi config=3Dsi inicio=3Dsi limpiar=3Dno"><PARAM =
+NAME=3D"Espacio" VALUE=3D"fondo=3DgrisObscuro red=3Dnegro red10=3Dgris =
+ejes=3Dgris texto=3DgrisClaro"><PARAM NAME=3D"C_00" VALUE=3D"id=3Descala =
+tipo=3Dnum=E9rico valor=3D'12' decimales=3D'4*(escala<10)' =
+incr=3D'0.1*escala' min=3D'0.001' max=3D'1000000' nombre=3Dzoom =
+regi=F3n=3Dnorte"><PARAM NAME=3D"C_01" VALUE=3D"id=3DOx =
+tipo=3Dnum=E9rico valor=3D'-110' decimales=3D'0' incr=3D'100' =
+nombre=3DO.x regi=F3n=3Dnorte"><PARAM NAME=3D"C_02" VALUE=3D"id=3DOy =
+tipo=3Dnum=E9rico valor=3D'60' decimales=3D'0' incr=3D'100' nombre=3DO.y =
+regi=F3n=3Dnorte"><PARAM NAME=3D"C_03" VALUE=3D"id=3DA tipo=3Dgr=E1fico =
+expresi=F3n=3D'[2,2]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_04" VALUE=3D"id=3DB tipo=3Dgr=E1fico expresi=F3n=3D'[4,2]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_05" =
+VALUE=3D"id=3DC tipo=3Dgr=E1fico expresi=F3n=3D'[5,4]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_06" VALUE=3D"id=3DD =
+tipo=3Dgr=E1fico expresi=F3n=3D'[5,5]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"C_07" VALUE=3D"id=3DE tipo=3Dgr=E1fico =
+expresi=F3n=3D'[5,6]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_08" VALUE=3D"id=3DF tipo=3Dgr=E1fico expresi=F3n=3D'[6,5]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_09" =
+VALUE=3D"id=3DG tipo=3Dgr=E1fico expresi=F3n=3D'[6,6]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_10" VALUE=3D"id=3DH =
+tipo=3Dgr=E1fico expresi=F3n=3D'[6,7]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"C_11" VALUE=3D"id=3DI tipo=3Dgr=E1fico =
+expresi=F3n=3D'[7,5]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_12" VALUE=3D"id=3DJ tipo=3Dgr=E1fico expresi=F3n=3D'[7,8]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_13" =
+VALUE=3D"id=3DK tipo=3Dgr=E1fico expresi=F3n=3D'[8,7]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_14" VALUE=3D"id=3DL =
+tipo=3Dgr=E1fico expresi=F3n=3D'[9,10]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"A_00" VALUE=3D"id=3Dmx =
+expresi=F3n=3D'(A.x+B.x+C.x+D.x+E.x+F.x+G.x+H.x+I.x+J.x+K.x+L.x)/12'"><PA=
+RAM NAME=3D"A_01" VALUE=3D"id=3Dmy =
+expresi=F3n=3D'(A.y+B.y+C.y+D.y+E.y+F.y+G.y+H.y+I.y+J.y+K.y+L.y)/12'"><PA=
+RAM NAME=3D"A_02" VALUE=3D"id=3Dvx =
+expresi=F3n=3D'(A.x^2+B.x^2+C.x^2+D.x^2+E.x^2+F.x^2+G.x^2+H.x^2+I.x^2+J.x=
+^2+K.x^2+L.x^2)/12-mx^2'"><PARAM NAME=3D"A_03" VALUE=3D"id=3Dvy =
+expresi=F3n=3D'(A.y^2+B.y^2+C.y^2+D.y^2+E.y^2+F.y^2+G.y^2+H.y^2+I.y^2+J.y=
+^2+K.y^2+L.y^2)/12-my^2'"><PARAM NAME=3D"A_04" VALUE=3D"id=3Dcv =
+expresi=F3n=3D'(A.x*A.y+B.x*B.y+C.x*C.y+D.x*D.y+E.x*E.y+F.x*F.y+G.x*G.y+H=
+.x*H.y+I.x*I.y+J.x*J.y+K.x*K.y+L.x*L.y)/12-mx*my'"><PARAM NAME=3D"G_00" =
+VALUE=3D"tipo=3Decuaci=F3n expresi=F3n=3D'y=3Dmy+(cv/vx)*(x-mx)' =
+color=3Dturquesa visible=3Dno"><PARAM NAME=3D"G_01" =
+VALUE=3D"tipo=3Dtexto expresi=F3n=3D'[160,100]' color=3Dverde texto=3D'r =
+=3D [cv/(vx^(1/2)*vy^(1/2))]'"></APPLET>=20
+      </FONT></TD></TR>
+  <TR>
+    <TD height=3D102 vAlign=3Dtop width=3D142 align=3Dcenter><FONT=20
+      face=3D"Comic Sans MS">
+      <P align=3Djustify>|r|=3D0,5</FONT></P></TD>
+    <TD height=3D102 vAlign=3Dtop width=3D220 align=3Dcenter>&nbsp;<FONT =
+
+      face=3D"Comic Sans MS">=20
+      <P>&nbsp;</P></FONT></TD>
+    <TD height=3D102 vAlign=3Dtop width=3D315 align=3Dcenter>&nbsp;<FONT =
+
+      face=3D"Comic Sans MS"><APPLET=20
+      =
+archive=3Ddescinst.jar,http://recursostic.educacion.es/descartes/web/plug=
+in/descinst.jar=20
+      code=3Ddescinst.Descartes.class width=3D300 height=3D200 =
+MAYSCRIPT><PARAM NAME=3D"Versi=F3n" VALUE=3D"2.20"><PARAM =
+NAME=3D"Idioma" VALUE=3D"espa=F1ol"><PARAM NAME=3D"Botones" =
+VALUE=3D"cr=E9ditos=3Dsi config=3Dsi inicio=3Dsi limpiar=3Dno"><PARAM =
+NAME=3D"Espacio" VALUE=3D"fondo=3DgrisObscuro red=3Dnegro red10=3Dgris =
+ejes=3Dgris texto=3DgrisClaro"><PARAM NAME=3D"C_00" VALUE=3D"id=3Descala =
+tipo=3Dnum=E9rico valor=3D'12' decimales=3D'4*(escala<10)' =
+incr=3D'0.1*escala' min=3D'0.001' max=3D'1000000' nombre=3Dzoom =
+regi=F3n=3Dnorte"><PARAM NAME=3D"C_01" VALUE=3D"id=3DOx =
+tipo=3Dnum=E9rico valor=3D'-110' decimales=3D'0' incr=3D'100' =
+nombre=3DO.x regi=F3n=3Dnorte"><PARAM NAME=3D"C_02" VALUE=3D"id=3DOy =
+tipo=3Dnum=E9rico valor=3D'60' decimales=3D'0' incr=3D'100' nombre=3DO.y =
+regi=F3n=3Dnorte"><PARAM NAME=3D"C_03" VALUE=3D"id=3DA tipo=3Dgr=E1fico =
+expresi=F3n=3D'[2,2]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_04" VALUE=3D"id=3DB tipo=3Dgr=E1fico expresi=F3n=3D'[4,2]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_05" =
+VALUE=3D"id=3DC tipo=3Dgr=E1fico expresi=F3n=3D'[5,4]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_06" VALUE=3D"id=3DD =
+tipo=3Dgr=E1fico expresi=F3n=3D'[5,5]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"C_07" VALUE=3D"id=3DE tipo=3Dgr=E1fico =
+expresi=F3n=3D'[5,6]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_08" VALUE=3D"id=3DF tipo=3Dgr=E1fico expresi=F3n=3D'[6,5]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_09" =
+VALUE=3D"id=3DG tipo=3Dgr=E1fico expresi=F3n=3D'[6,6]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_10" VALUE=3D"id=3DH =
+tipo=3Dgr=E1fico expresi=F3n=3D'[6,7]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"C_11" VALUE=3D"id=3DI tipo=3Dgr=E1fico =
+expresi=F3n=3D'[7,5]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_12" VALUE=3D"id=3DJ tipo=3Dgr=E1fico expresi=F3n=3D'[7,8]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_13" =
+VALUE=3D"id=3DK tipo=3Dgr=E1fico expresi=F3n=3D'[8,7]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_14" VALUE=3D"id=3DL =
+tipo=3Dgr=E1fico expresi=F3n=3D'[9,10]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"A_00" VALUE=3D"id=3Dmx =
+expresi=F3n=3D'(A.x+B.x+C.x+D.x+E.x+F.x+G.x+H.x+I.x+J.x+K.x+L.x)/12'"><PA=
+RAM NAME=3D"A_01" VALUE=3D"id=3Dmy =
+expresi=F3n=3D'(A.y+B.y+C.y+D.y+E.y+F.y+G.y+H.y+I.y+J.y+K.y+L.y)/12'"><PA=
+RAM NAME=3D"A_02" VALUE=3D"id=3Dvx =
+expresi=F3n=3D'(A.x^2+B.x^2+C.x^2+D.x^2+E.x^2+F.x^2+G.x^2+H.x^2+I.x^2+J.x=
+^2+K.x^2+L.x^2)/12-mx^2'"><PARAM NAME=3D"A_03" VALUE=3D"id=3Dvy =
+expresi=F3n=3D'(A.y^2+B.y^2+C.y^2+D.y^2+E.y^2+F.y^2+G.y^2+H.y^2+I.y^2+J.y=
+^2+K.y^2+L.y^2)/12-my^2'"><PARAM NAME=3D"A_04" VALUE=3D"id=3Dcv =
+expresi=F3n=3D'(A.x*A.y+B.x*B.y+C.x*C.y+D.x*D.y+E.x*E.y+F.x*F.y+G.x*G.y+H=
+.x*H.y+I.x*I.y+J.x*J.y+K.x*K.y+L.x*L.y)/12-mx*my'"><PARAM NAME=3D"G_00" =
+VALUE=3D"tipo=3Decuaci=F3n expresi=F3n=3D'y=3Dmy+(cv/vx)*(x-mx)' =
+color=3Dturquesa visible=3Dno"><PARAM NAME=3D"G_01" =
+VALUE=3D"tipo=3Dtexto expresi=F3n=3D'[160,100]' color=3Dverde texto=3D'r =
+=3D [cv/(vx^(1/2)*vy^(1/2))]'"></APPLET>=20
+      </FONT></TD></TR>
+  <TR>
+    <TD height=3D105 vAlign=3Dtop width=3D142 align=3Dcenter><FONT=20
+      face=3D"Comic Sans MS">
+      <P align=3Djustify>|r|=3D0,3</FONT></P></TD>
+    <TD height=3D105 vAlign=3Dtop width=3D220 align=3Dcenter>&nbsp;<FONT =
+
+      face=3D"Comic Sans MS">=20
+      <P>&nbsp;</P></FONT></TD>
+    <TD height=3D105 vAlign=3Dtop width=3D315 align=3Dcenter>&nbsp;<FONT =
+
+      face=3D"Comic Sans MS"><APPLET=20
+      =
+archive=3Ddescinst.jar,http://recursostic.educacion.es/descartes/web/plug=
+in/descinst.jar=20
+      code=3Ddescinst.Descartes.class width=3D300 height=3D200 =
+MAYSCRIPT><PARAM NAME=3D"Versi=F3n" VALUE=3D"2.20"><PARAM =
+NAME=3D"Idioma" VALUE=3D"espa=F1ol"><PARAM NAME=3D"Botones" =
+VALUE=3D"cr=E9ditos=3Dsi config=3Dsi inicio=3Dsi limpiar=3Dno"><PARAM =
+NAME=3D"Espacio" VALUE=3D"fondo=3DgrisObscuro red=3Dnegro red10=3Dgris =
+ejes=3Dgris texto=3DgrisClaro"><PARAM NAME=3D"C_00" VALUE=3D"id=3Descala =
+tipo=3Dnum=E9rico valor=3D'12' decimales=3D'4*(escala<10)' =
+incr=3D'0.1*escala' min=3D'0.001' max=3D'1000000' nombre=3Dzoom =
+regi=F3n=3Dnorte"><PARAM NAME=3D"C_01" VALUE=3D"id=3DOx =
+tipo=3Dnum=E9rico valor=3D'-110' decimales=3D'0' incr=3D'100' =
+nombre=3DO.x regi=F3n=3Dnorte"><PARAM NAME=3D"C_02" VALUE=3D"id=3DOy =
+tipo=3Dnum=E9rico valor=3D'60' decimales=3D'0' incr=3D'100' nombre=3DO.y =
+regi=F3n=3Dnorte"><PARAM NAME=3D"C_03" VALUE=3D"id=3DA tipo=3Dgr=E1fico =
+expresi=F3n=3D'[2,2]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_04" VALUE=3D"id=3DB tipo=3Dgr=E1fico expresi=F3n=3D'[4,2]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_05" =
+VALUE=3D"id=3DC tipo=3Dgr=E1fico expresi=F3n=3D'[5,4]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_06" VALUE=3D"id=3DD =
+tipo=3Dgr=E1fico expresi=F3n=3D'[5,5]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"C_07" VALUE=3D"id=3DE tipo=3Dgr=E1fico =
+expresi=F3n=3D'[5,6]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_08" VALUE=3D"id=3DF tipo=3Dgr=E1fico expresi=F3n=3D'[6,5]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_09" =
+VALUE=3D"id=3DG tipo=3Dgr=E1fico expresi=F3n=3D'[6,6]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_10" VALUE=3D"id=3DH =
+tipo=3Dgr=E1fico expresi=F3n=3D'[6,7]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"C_11" VALUE=3D"id=3DI tipo=3Dgr=E1fico =
+expresi=F3n=3D'[7,5]' color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM =
+NAME=3D"C_12" VALUE=3D"id=3DJ tipo=3Dgr=E1fico expresi=F3n=3D'[7,8]' =
+color=3Drojo decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_13" =
+VALUE=3D"id=3DK tipo=3Dgr=E1fico expresi=F3n=3D'[8,7]' color=3Drojo =
+decimales=3D'2' tama=F1o=3D2"><PARAM NAME=3D"C_14" VALUE=3D"id=3DL =
+tipo=3Dgr=E1fico expresi=F3n=3D'[9,10]' color=3Drojo decimales=3D'2' =
+tama=F1o=3D2"><PARAM NAME=3D"A_00" VALUE=3D"id=3Dmx =
+expresi=F3n=3D'(A.x+B.x+C.x+D.x+E.x+F.x+G.x+H.x+I.x+J.x+K.x+L.x)/12'"><PA=
+RAM NAME=3D"A_01" VALUE=3D"id=3Dmy =
+expresi=F3n=3D'(A.y+B.y+C.y+D.y+E.y+F.y+G.y+H.y+I.y+J.y+K.y+L.y)/12'"><PA=
+RAM NAME=3D"A_02" VALUE=3D"id=3Dvx =
+expresi=F3n=3D'(A.x^2+B.x^2+C.x^2+D.x^2+E.x^2+F.x^2+G.x^2+H.x^2+I.x^2+J.x=
+^2+K.x^2+L.x^2)/12-mx^2'"><PARAM NAME=3D"A_03" VALUE=3D"id=3Dvy =
+expresi=F3n=3D'(A.y^2+B.y^2+C.y^2+D.y^2+E.y^2+F.y^2+G.y^2+H.y^2+I.y^2+J.y=
+^2+K.y^2+L.y^2)/12-my^2'"><PARAM NAME=3D"A_04" VALUE=3D"id=3Dcv =
+expresi=F3n=3D'(A.x*A.y+B.x*B.y+C.x*C.y+D.x*D.y+E.x*E.y+F.x*F.y+G.x*G.y+H=
+.x*H.y+I.x*I.y+J.x*J.y+K.x*K.y+L.x*L.y)/12-mx*my'"><PARAM NAME=3D"G_00" =
+VALUE=3D"tipo=3Decuaci=F3n expresi=F3n=3D'y=3Dmy+(cv/vx)*(x-mx)' =
+color=3Dturquesa visible=3Dno"><PARAM NAME=3D"G_01" =
+VALUE=3D"tipo=3Dtexto expresi=F3n=3D'[160,100]' color=3Dverde texto=3D'r =
+=3D [cv/(vx^(1/2)*vy^(1/2))]'"></APPLET>=20
+      </FONT></TD></TR></TBODY></TABLE><B><I><FONT color=3D#800000 =
+size=3D4=20
+face=3D"Comic Sans MS"><FONT face=3D"Comic Sans MS">
+<P align=3Dright><FONT color=3D#99ffcc size=3D2><A=20
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#Indi=
+ce"><SPAN=20
+style=3D"BACKGROUND-COLOR: #ccffff">Volver al =
+=EDndice</SPAN></A></FONT></P></FONT>
+<HR>
+
+<P align=3Dcenter><SPAN style=3D"BACKGROUND-COLOR: #ffcccc"><A=20
+name=3D"ESTIMACI=D3N MEDIANTE LA RECTA DE REGRESI=D3N">ESTIMACI=D3N =
+MEDIANTE LA RECTA DE=20
+REGRESI=D3N</A></SPAN></P></FONT></I></B>
+<P align=3Djustify>Es evidente que no todos dibujar=EDamos exactamente =
+la misma=20
+recta para una nube de puntos, aunque la correlaci=F3n fuera bastante =
+fuerte.</P>
+<P align=3Djustify>De todas las rectas posibles los matem=E1ticos han =
+elegido como=20
+la mejor aproximaci=F3n la llamada de los m=EDnimos cuadr=E1ticos, Su =
+c=E1lculo es=20
+tambi=E9n algo mec=E1nico que podemos hacer con calculadora o un =
+ordenador. En el=20
+siguiente apartado encontrar=E1s un ejercicio para estudiar sus=20
+propiedades.&nbsp;</P>
+<P align=3Djustify><FONT color=3D#000080 size=3D4>La recta de =
+regresi=F3n sirve para=20
+hacer estimaciones, teniendo en cuenta que:</FONT></P>
+<UL>
+  <LI><FONT color=3D#000080 size=3D4>Los valores obtenidos son =
+aproximaciones en=20
+  t=E9rminos de probabilidad: es probable que el valor correspondiente a =
+x<SUB>0=20
+  </SUB>sea y<SUB>0</SUB>.</FONT>=20
+  <LI><FONT color=3D#000080 size=3D4>La fiabilidad es mayor cuanto m=E1s =
+fuerte sea la=20
+  correlaci=F3n.</FONT>=20
+  <LI><FONT color=3D#000080 size=3D4>La fiabilidad aumenta al aumentar =
+el n=FAmero de=20
+  datos.</FONT>=20
+  <LI><FONT color=3D#000080 size=3D4>La estimaci=F3n es m=E1s fiable =
+para los valores de=20
+  x pr=F3ximos a la media.</FONT> </LI></UL><U>
+<P align=3Djustify><SPAN style=3D"BACKGROUND-COLOR: #ccff99"><FONT=20
+color=3D#000080><I>Ejemplo 1:</I></FONT></SPAN></P></U>
+<P align=3Djustify>Con los datos del primer ejemplo, (las notas de 10 =
+alumnos en=20
+Matem=E1ticas y en Lengua), podemos contestar con aproximaci=F3n a la =
+siguiente=20
+cuesti=F3n: si un alumno no realiz=F3 el examen de lengua, pero s=ED el =
+de=20
+matem=E1ticas, obteniendo un 7, =BFqu=E9 nota cabe esperar que obtuviera =
+en=20
+lengua?</P>
+<CENTER>
+<TABLE border=3D1 cellSpacing=3D1 borderColorLight=3D#ff9999 =
+borderColorDark=3D#800000=20
+cellPadding=3D4 width=3D440 height=3D70>
+  <TBODY>
+  <TR>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"31%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>MATEM=C1TICAS</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>2</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>4</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>5</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>5</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>6</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>6</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>7</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>7</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>8</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>9</FONT></P></TD></TR>
+  <TR>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"31%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>LENGUA</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>2</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>2</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>5</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>6</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>5</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>7</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>5</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>8</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>7</FONT></P></TD>
+    <TD height=3D35 vAlign=3Dmiddle width=3D"7%"><FONT face=3D"Comic =
+Sans MS">
+      <P align=3Dcenter>10</FONT></P></TD></TR></TBODY></TABLE></CENTER>
+<P align=3Dcenter><APPLET=20
+archive=3Ddescinst.jar,http://recursostic.educacion.es/descartes/web/plug=
+in/descinst.jar=20
+code=3Ddescinst.Descartes.class width=3D570 height=3D300 =
+MAYSCRIPT><PARAM NAME=3D"Versi=F3n" VALUE=3D"2.20"><PARAM =
+NAME=3D"Idioma" VALUE=3D"espa=F1ol"><PARAM NAME=3D"Botones" =
+VALUE=3D"cr=E9ditos=3Dsi config=3Dsi inicio=3Dsi limpiar=3Dno"><PARAM =
+NAME=3D"Espacio" VALUE=3D"fondo=3Dnegro red=3DgrisObscuro red10=3Dgris =
+ejes=3Dgris texto=3DgrisObscuro"><PARAM NAME=3D"C_00" =
+VALUE=3D"id=3Descala tipo=3Dnum=E9rico valor=3D'20' =
+decimales=3D'4*(escala<10)' incr=3D'0.1*escala' min=3D'0.001' =
+max=3D'1000000' nombre=3Dzoom regi=F3n=3Dnorte"><PARAM NAME=3D"C_01" =
+VALUE=3D"id=3DOx tipo=3Dnum=E9rico valor=3D'-270' decimales=3D'0' =
+incr=3D'100' nombre=3DO.x regi=F3n=3Dnorte"><PARAM NAME=3D"C_02" =
+VALUE=3D"id=3DOy tipo=3Dnum=E9rico valor=3D'100' decimales=3D'0' =
+incr=3D'100' nombre=3DO.y regi=F3n=3Dnorte"><PARAM NAME=3D"C_03" =
+VALUE=3D"id=3Da tipo=3Dnum=E9rico valor=3D'7' decimales=3D'0' incr=3D'1' =
+min=3D'0' max=3D'10' nombre=3Dnota_de_matem=E1ticas"><PARAM =
+NAME=3D"C_04" VALUE=3D"id=3DA tipo=3Dgr=E1fico expresi=F3n=3D'[2,2]' =
+decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_05" VALUE=3D"id=3DB =
+tipo=3Dgr=E1fico expresi=F3n=3D'[4,2]' decimales=3D'2' =
+tama=F1o=3D3"><PARAM NAME=3D"C_06" VALUE=3D"id=3DD tipo=3Dgr=E1fico =
+expresi=F3n=3D'[5,5]' decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_07" =
+VALUE=3D"id=3DE tipo=3Dgr=E1fico expresi=F3n=3D'[5,6]' decimales=3D'2' =
+tama=F1o=3D3"><PARAM NAME=3D"C_08" VALUE=3D"id=3DF tipo=3Dgr=E1fico =
+expresi=F3n=3D'[6,5]' decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_09" =
+VALUE=3D"id=3DH tipo=3Dgr=E1fico expresi=F3n=3D'[6,7]' decimales=3D'2' =
+tama=F1o=3D3"><PARAM NAME=3D"C_10" VALUE=3D"id=3DI tipo=3Dgr=E1fico =
+expresi=F3n=3D'[7,5]' decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_11" =
+VALUE=3D"id=3DJ tipo=3Dgr=E1fico expresi=F3n=3D'[7,8]' decimales=3D'2' =
+tama=F1o=3D3"><PARAM NAME=3D"C_12" VALUE=3D"id=3DK tipo=3Dgr=E1fico =
+expresi=F3n=3D'[8,7]' decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_13" =
+VALUE=3D"id=3DL tipo=3Dgr=E1fico expresi=F3n=3D'[9,10]' decimales=3D'2' =
+tama=F1o=3D3"><PARAM NAME=3D"A_00" VALUE=3D"id=3Dmx =
+expresi=F3n=3D'(A.x+B.x+D.x+E.x+F.x+H.x+I.x+J.x+K.x+L.x)/10'"><PARAM =
+NAME=3D"A_01" VALUE=3D"id=3Dmy =
+expresi=F3n=3D'(A.y+B.y+D.y+E.y+F.y+H.y+I.y+J.y+K.y+L.y)/10'"><PARAM =
+NAME=3D"A_02" VALUE=3D"id=3Dvx =
+expresi=F3n=3D'(A.x^2+B.x^2+D.x^2+E.x^2+F.x^2+H.x^2+I.x^2+J.x^2+K.x^2+L.x=
+^2)/10-mx^2'"><PARAM NAME=3D"A_03" VALUE=3D"id=3Dvy =
+expresi=F3n=3D'(A.y^2+B.y^2+D.y^2+E.y^2+F.y^2+H.y^2+I.y^2+J.y^2+K.y^2+L.y=
+^2)/10-my^2'"><PARAM NAME=3D"A_04" VALUE=3D"id=3Dcv =
+expresi=F3n=3D'(A.x*A.y+B.x*B.y+D.x*D.y+E.x*E.y+F.x*F.y+H.x*H.y+I.x*I.y+J=
+.x*J.y+K.x*K.y+L.x*L.y)/10-mx*my'"><PARAM NAME=3D"A_05" VALUE=3D"id=3Db =
+expresi=F3n=3D'my+(cv/vx)*(a-mx)'"><PARAM NAME=3D"G_00" =
+VALUE=3D"tipo=3Decuaci=F3n expresi=F3n=3D'y=3Dmy+(cv/vx)*(x-mx)' =
+color=3Dturquesa visible=3Dno"><PARAM NAME=3D"G_01" =
+VALUE=3D"tipo=3Dpunto expresi=F3n=3D'[a,b]' color=3Damarillo =
+texto=3D'([a],[b])' decimales=3D0"><PARAM NAME=3D"G_02" =
+VALUE=3D"tipo=3Dtexto expresi=F3n=3D'[400,30]' color=3Dverde texto=3D'r =
+=3D [cv/(vx^(1/2)*vy^(1/2))]'"><PARAM NAME=3D"G_03" =
+VALUE=3D"tipo=3Dtexto expresi=F3n=3D'[400,50]' color=3Dturquesa =
+texto=3D'y =3D [my-(cv/vx)*mx] + [(cv/vx)] x '"><PARAM NAME=3D"G_04" =
+VALUE=3D"tipo=3Dtexto expresi=F3n=3D'[300,200]' color=3Dturquesa =
+texto=3D'nota media de matem=E1ticas =3D [mx]'"></APPLET>=20
+</P>
+<P align=3Djustify><FONT color=3D#000080 size=3D4>Observa el punto =
+amarillo, cuya=20
+abscisa corresponde a la nota de matem=E1ticas y su ordenada a la nota =
+que=20
+esperamos que tenga en lengua.&nbsp;Es resultado es aproximado y =
+relativamente=20
+fiable, ya que la correlaci=F3n es fuerte Y el valor de la nota no =
+est=E1 muy=20
+pr=F3ximo a la media, aunque el n=BA de datos que tenemos no es muy =
+alto.</FONT></P>
+<P align=3Djustify><FONT size=3D2>Puedes cambiar el valor de la nota de =
+matem=E1ticas=20
+sin m=E1s que cambiar su valor en el recuadro de la parte=20
+inferior.</FONT></P><B><I>
+<P align=3Dright><FONT color=3D#99ffcc size=3D2><A=20
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#Indi=
+ce"><SPAN=20
+style=3D"BACKGROUND-COLOR: #ccffff">Volver al =
+=EDndice</SPAN></A></FONT></P></I></B>
+<HR>
+
+<P align=3Dcenter><B><I><FONT color=3D#800000 size=3D4><SPAN=20
+style=3D"BACKGROUND-COLOR: #ffcccc"><A=20
+name=3D"PROPIEDADES DE LA RECTA DE REGRESI=D3N DE LOS =
+M=CDNIMOS">PROPIEDADES DE LA=20
+RECTA DE REGRESI=D3N DE LOS M=CDNIMOS</A> =
+CUADR=C1TICOS.</SPAN></FONT></I></B>
+<P align=3Djustify>En la siguiente escena puedes comprobar las =
+principales=20
+propiedades de la recta de regresi=F3n m=EDnimo-cuadr=E1tica.=20
+<OL>
+  <LI>
+  <P align=3Djustify>Observa la recta blanca, cuyos coeficientes =
+<I>a</I> y=20
+  <I>b</I> puedes hacer variar en los recuadros inferiores de la escena, =
+bien=20
+  con las flechas o introduciendo los valores deseados. Observa los =
+segmentos=20
+  denominados <I>di</I>, que marcan las distancias de los puntos de la =
+nube a la=20
+  recta en la direcci=F3n del eje OY. </P></LI></OL>
+<BLOCKQUOTE>
+  <P align=3Djustify>Haz variar los valores de<I> a</I> y de <I>b</I>. =
+Cuando la=20
+  recta coincida con la recta de regresi=F3n m=EDnimo-cuadr=E1tica =
+(en&nbsp; color=20
+  azul claro) <FONT color=3D#000080 size=3D4>la suma de los cuadrados de =
+las=20
+  distancias di es la m=EDnima posible</FONT>.&nbsp; </P></BLOCKQUOTE>
+<P align=3Dcenter></P>
+<OL start=3D2>
+  <LI>
+  <P align=3Djustify>Observa el punto<FONT color=3D#ffff00> </FONT><FONT =
+
+  color=3D#800000>P</FONT><I>(p,q)</I>, cuyas coordenadas puedes hacer =
+variar en=20
+  los recuadros correspondientes de la parte inferior de la escena. =
+Observa lo=20
+  que ocurre si le das a <I>p</I> y a <I>q </I>los valores de las medias =
+de la=20
+  distribuci=F3n (puedes escribir mx en la casilla de p y pulsar intro y =
+escribir=20
+  my en la casilla de q y pulsar intro). Mueve ahora los puntos rojos y =
+repite=20
+  el ejercicio. =BFqu=E9 propiedad puedes deducir? </P></LI></OL>
+<P align=3Dcenter><APPLET=20
+archive=3Ddescinst.jar,http://recursostic.educacion.es/descartes/web/plug=
+in/descinst.jar=20
+code=3Ddescinst.Descartes.class width=3D570 height=3D300 =
+MAYSCRIPT><PARAM NAME=3D"Versi=F3n" VALUE=3D"2.43"><PARAM =
+NAME=3D"Idioma" VALUE=3D"espa=F1ol"><PARAM NAME=3D"Botones" =
+VALUE=3D"cr=E9ditos=3Dsi config=3Dsi inicio=3Dsi limpiar=3Dno"><PARAM =
+NAME=3D"Espacio" VALUE=3D"fondo=3Dnegro red=3DgrisObscuro red10=3Dgris =
+ejes=3DgrisObscuro texto=3DgrisObscuro"><PARAM NAME=3D"C_00" =
+VALUE=3D"id=3Descala tipo=3Dnum=E9rico valor=3D'20' =
+decimales=3D'4*(escala<10)' incr=3D'0.1*escala' min=3D'0.001' =
+max=3D'1000000' nombre=3Dzoom regi=F3n=3Dnorte"><PARAM NAME=3D"C_01" =
+VALUE=3D"id=3DOx tipo=3Dnum=E9rico valor=3D'-270' decimales=3D'0' =
+incr=3D'100' nombre=3DO.x regi=F3n=3Dnorte"><PARAM NAME=3D"C_02" =
+VALUE=3D"id=3DOy tipo=3Dnum=E9rico valor=3D'100' decimales=3D'0' =
+incr=3D'100' nombre=3DO.y regi=F3n=3Dnorte"><PARAM NAME=3D"C_03" =
+VALUE=3D"id=3Da tipo=3Dnum=E9rico valor=3D'0.75' decimales=3D'2' =
+incr=3D'0.05'"><PARAM NAME=3D"C_04" VALUE=3D"id=3Db tipo=3Dnum=E9rico =
+valor=3D'-1' decimales=3D'2' incr=3D'0.05'"><PARAM NAME=3D"C_05" =
+VALUE=3D"id=3DA tipo=3Dgr=E1fico expresi=F3n=3D'[2,2]' decimales=3D'2' =
+tama=F1o=3D3"><PARAM NAME=3D"C_06" VALUE=3D"id=3DB tipo=3Dgr=E1fico =
+expresi=F3n=3D'[4,2]' decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_07" =
+VALUE=3D"id=3DD tipo=3Dgr=E1fico expresi=F3n=3D'[5,5]' decimales=3D'2' =
+tama=F1o=3D3"><PARAM NAME=3D"C_08" VALUE=3D"id=3DE tipo=3Dgr=E1fico =
+expresi=F3n=3D'[5,6]' decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_09" =
+VALUE=3D"id=3DF tipo=3Dgr=E1fico expresi=F3n=3D'[6,5]' decimales=3D'2' =
+tama=F1o=3D3"><PARAM NAME=3D"C_10" VALUE=3D"id=3DH tipo=3Dgr=E1fico =
+expresi=F3n=3D'[6,7]' decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_11" =
+VALUE=3D"id=3DI tipo=3Dgr=E1fico expresi=F3n=3D'[7,5]' decimales=3D'2' =
+tama=F1o=3D3"><PARAM NAME=3D"C_12" VALUE=3D"id=3DJ tipo=3Dgr=E1fico =
+expresi=F3n=3D'[7,8]' decimales=3D'2' tama=F1o=3D3"><PARAM NAME=3D"C_13" =
+VALUE=3D"id=3DK tipo=3Dgr=E1fico expresi=F3n=3D'[8,7]' decimales=3D'2' =
+tama=F1o=3D3"><PARAM NAME=3D"C_14" VALUE=3D"id=3DL tipo=3Dgr=E1fico =
+expresi=F3n=3D'[9,10]' decimales=3D'2' tama=F1o=3D3"><PARAM =
+NAME=3D"C_15" VALUE=3D"id=3DP tipo=3Dgr=E1fico expresi=F3n=3D'(3,3)' =
+color=3Damarillo texto=3D'P' decimales=3D'2' tama=F1o=3D3"><PARAM =
+NAME=3D"C_16" VALUE=3D"id=3DP.x tipo=3Dnum=E9rico valor=3D'3' =
+decimales=3D'2' incr=3D'0.1' nombre=3Dp"><PARAM NAME=3D"C_17" =
+VALUE=3D"id=3DP.y tipo=3Dnum=E9rico valor=3D'3' decimales=3D'2' =
+incr=3D'0.1' nombre=3Dq"><PARAM NAME=3D"A_00" VALUE=3D"id=3Dmx =
+expresi=F3n=3D'(A.x+B.x+D.x+E.x+F.x+H.x+I.x+J.x+K.x+L.x)/10'"><PARAM =
+NAME=3D"A_01" VALUE=3D"id=3Dmy =
+expresi=F3n=3D'(A.y+B.y+D.y+E.y+F.y+H.y+I.y+J.y+K.y+L.y)/10'"><PARAM =
+NAME=3D"A_02" VALUE=3D"id=3Dvx =
+expresi=F3n=3D'(A.x^2+B.x^2+D.x^2+E.x^2+F.x^2+H.x^2+I.x^2+J.x^2+K.x^2+L.x=
+^2)/10-mx^2'"><PARAM NAME=3D"A_03" VALUE=3D"id=3Dvy =
+expresi=F3n=3D'(A.y^2+B.y^2+D.y^2+E.y^2+F.y^2+H.y^2+I.y^2+J.y^2+K.y^2+L.y=
+^2)/10-my^2'"><PARAM NAME=3D"A_04" VALUE=3D"id=3Dcv =
+expresi=F3n=3D'(A.x*A.y+B.x*B.y+D.x*D.y+E.x*E.y+F.x*F.y+H.x*H.y+I.x*I.y+J=
+.x*J.y+K.x*K.y+L.x*L.y)/10-mx*my'"><PARAM NAME=3D"A_05" VALUE=3D"id=3DyA =
+expresi=F3n=3D'a*A.x+b'"><PARAM NAME=3D"A_06" VALUE=3D"id=3DyB =
+expresi=F3n=3D'a*B.x+b'"><PARAM NAME=3D"A_07" VALUE=3D"id=3DyD =
+expresi=F3n=3D'a*D.x+b'"><PARAM NAME=3D"A_08" VALUE=3D"id=3DyE =
+expresi=F3n=3D'a*E.x+b'"><PARAM NAME=3D"A_09" VALUE=3D"id=3DyF =
+expresi=F3n=3D'a*F.x+b'"><PARAM NAME=3D"A_10" VALUE=3D"id=3DyH =
+expresi=F3n=3D'a*H.x+b'"><PARAM NAME=3D"A_11" VALUE=3D"id=3DyI =
+expresi=F3n=3D'a*I.x+b'"><PARAM NAME=3D"A_12" VALUE=3D"id=3DyJ =
+expresi=F3n=3D'a*J.x+b'"><PARAM NAME=3D"A_13" VALUE=3D"id=3DyK =
+expresi=F3n=3D'a*K.x+b'"><PARAM NAME=3D"A_14" VALUE=3D"id=3DyL =
+expresi=F3n=3D'a*L.x+b'"><PARAM NAME=3D"A_15" VALUE=3D"id=3Dsdis2 =
+expresi=F3n=3D'(yA-A.y)^2+(yB-B.y)^2+(yD-D.y)^2+(yE-E.y)^2+(yF-F.y)^2+(yH=
+-H.y)^2+(yI-I.y)^2+(yJ-J.y)^2+(yK-K.y)^2+(yL-L.y)^2'"><PARAM =
+NAME=3D"G_00" VALUE=3D"tipo=3Decuaci=F3n =
+expresi=F3n=3D'y=3Dmy+(cv/vx)*(x-mx)' color=3Dturquesa =
+visible=3Dno"><PARAM NAME=3D"G_01" VALUE=3D"tipo=3Decuaci=F3n =
+expresi=F3n=3D'y=3Da*x+b' color=3Dblanco"><PARAM NAME=3D"G_02" =
+VALUE=3D"tipo=3Dsegmento expresi=F3n=3D'[A.x,A.y][A.x,yA]' texto=3D'd1' =
+tama=F1o=3D1"><PARAM NAME=3D"G_03" VALUE=3D"tipo=3Dsegmento =
+expresi=F3n=3D'[B.x,B.y][B.x,yB]' texto=3D'd2' tama=F1o=3D1"><PARAM =
+NAME=3D"G_04" VALUE=3D"tipo=3Dsegmento expresi=F3n=3D'[D.x,D.y][D.x,yD]' =
+texto=3D'd3' tama=F1o=3D1"><PARAM NAME=3D"G_05" VALUE=3D"tipo=3Dsegmento =
+expresi=F3n=3D'[E.x,E.y][E.x,yE]' texto=3D'd4' tama=F1o=3D1"><PARAM =
+NAME=3D"G_06" VALUE=3D"tipo=3Dsegmento expresi=F3n=3D'[F.x,F.y][F.x,yF]' =
+texto=3D'd5' tama=F1o=3D1"><PARAM NAME=3D"G_07" VALUE=3D"tipo=3Dsegmento =
+expresi=F3n=3D'[H.x,H.y][H.x,yH]' texto=3D'd6' tama=F1o=3D1"><PARAM =
+NAME=3D"G_08" VALUE=3D"tipo=3Dsegmento expresi=F3n=3D'[I.x,I.y][I.x,yI]' =
+texto=3D'd7' tama=F1o=3D1"><PARAM NAME=3D"G_09" VALUE=3D"tipo=3Dsegmento =
+expresi=F3n=3D'[J.x,J.y][J.x,yJ]' texto=3D'd8' tama=F1o=3D1"><PARAM =
+NAME=3D"G_10" VALUE=3D"tipo=3Dsegmento expresi=F3n=3D'[K.x,K.y][K.x,yK]' =
+texto=3D'd9' tama=F1o=3D1"><PARAM NAME=3D"G_11" VALUE=3D"tipo=3Dsegmento =
+expresi=F3n=3D'[L.x,L.y][L.x,yL]' texto=3D'd10' tama=F1o=3D1"><PARAM =
+NAME=3D"G_12" VALUE=3D"tipo=3Dtexto expresi=F3n=3D'[400,30]' =
+color=3Dverde texto=3D'r =3D [cv/(vx^(1/2)*vy^(1/2))]'"><PARAM =
+NAME=3D"G_13" VALUE=3D"tipo=3Dtexto expresi=F3n=3D'[400,50]' =
+color=3Dturquesa texto=3D'y =3D [my-(cv/vx)*mx] + [(cv/vx)] x '"><PARAM =
+NAME=3D"G_14" VALUE=3D"tipo=3Dtexto expresi=F3n=3D'[250,200]' =
+color=3Dblanco texto=3D'suma de los cuadrados de las di =3D =
+[sdis2]'"></APPLET>=20
+<I>
+<P align=3Dright><FONT color=3D#99ffcc size=3D2><A=20
+href=3D"http://recursostic.educacion.es/descartes/web/materiales_didactic=
+os/Correlacion_regresion_recta_regresion/correlacion_y_regresion.htm#Indi=
+ce"><SPAN=20
+style=3D"BACKGROUND-COLOR: #ccffff">Volver al =
+=EDndice</SPAN></A></FONT></P></I>
+<HR>
+
+<P align=3Dright><FONT color=3D#008080 size=3D2><EM>Autora: Celia =
+Berrocal=20
+S=E1nchez</EM></FONT></P>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD rowSpan=3D3 width=3D"6%"><IMG align=3Dmiddle=20
+      =
+src=3D"http://recursostic.educacion.es/descartes/web/imagenes_comunes/log=
+o_d.gif"=20
+      width=3D43 height=3D70></TD>
+    <TD height=3D28 colSpan=3D2>&nbsp; </TD></TR>
+  <TR>
+    <TD bgColor=3D#cccccc height=3D19 width=3D"42%"><FONT =
+color=3D#ffffff size=3D1=20
+      face=3D"Verdana, Arial, Helvetica, sans-serif">Ministerio de =
+Educaci=F3n,=20
+      Cultura y Deporte. A=F1o 2001</FONT></TD>
+    <TD height=3D19 width=3D"52%">&nbsp;</TD></TR>
+  <TR>
+    <TD colSpan=3D2>&nbsp;</TD></TR></TBODY></TABLE>
+<P align=3Dright>&nbsp;</P>
+<P align=3Dright>&nbsp;</P></FONT></BODY></HTML>
+
+------=_NextPart_000_0000_01CE56DA.F0C9F670
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://recursostic.educacion.es/descartes/web/imagenes_comunes/logo_blanco.gif
+
+R0lGODlhjABGANX/AP/////4//D48PD38PDw8O/w7+/v7+/o7+Do4ODn4ODg4N/g39/f39/Y39DY
+0NDX0NDQ0M/Qz8/Pz8/Iz8DIwMDHwMDAwL/Av7+/v7+4v7C4sLC3sLCwsK+wr6+vr6+or6CooKCn
+oKCgoJ+gn5+fn5+Yn5CYkJCXkJCQkI+Qj4+Pj4+Ij4CIgICHgICAgH+Af39/f394f3B4cHB3cHBw
+cG9wb29vb29ob////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C0FET0JFOklSMS4wAt7tACH5BAEA
+ADgALAAAAACMAEYAAAb/QJxwSCwaj8ikcslsOp/QqHRKrVqv2Kx2y+16v+CweEwuDy0VhnrNVjcg
+EQmlYrGY7/g6ZCDo+/sDgQMEBAYKDBF0dXZ4jV91CACSk5SVkwEFChAWF46eXRUHAAELDg0OqKkK
+BwYFAwGVCBAXF4yft1OQAAUhKissLSzCLCoqKSUhGxQMBZQJFBgYuNNQnJEHJzAyMzMx3t/eMDAv
+LCQYCbC7EBkYndTvSbUJAAgqNDU1MzL7/Nzc+zFgqNAgatQDDezgKSxy4Rw9FjbyxXBBkeKLi+Jg
+eAOYIsKkBxs0SFu4EEOGeQhY0JBB7oRLlyhQpCi2okWLFxpZXoAlQEIH/w22SFIziXIFSxUmQihd
+GkLEiBEkTJxIUfNFwAywBmDwoEEoPAwaUKqAwSLphrNoN3Dg0MHDh6YkTqhoIY6CpAMeuHodGpae
+ihcqSHgYqYSDhxBxV7xoweCuiA7u9n4CK9YFChEcnpjk8IEE1cYAKpDYQFhyI8p+LWOOgmGDBxKB
+BwA4EKJDhsgLF9XBg7qe6sxRznZG0ThABxCkg75DQ0GCBDp3eqv4LcVC6xAmMkiiMMLDbZJ0GAww
+UAH3GOnUpVzI0EHEBwEAGJhAjgFNhfuKKhTBz38I///+/XdfgPjhUMc8AzREhIADEgigE+hdBlwU
+1mnwgQjzMJACZvVJwP8AAggk8MAEi+BAAQURfIiAAiPqh0MFEjiQAIgMyPHifQ8okMACD1CwG44x
+NtDcAwYAMEAEE6xn4AQNzJhAAyQycp+KLE7gYhMRrpYLBu01AIABKwhmgXiSwLfLA+1cQAE6lRCQ
+CAUKyAaAmQGgKcEBZk5SAATRVNBMMwAQackEHKRBQJmSDNCAdWoqIEk6R0YAYV++SVhFax94OUAL
+JnAwTwAJJCLBpwdd4GgAmkjwwAEDSLBBJKDGIcECB0ywwQNzJuDAAwvIVoAFIgFawAEVPMBAkQM4
+EAEIHczzJSoPIBBAAAyY1BgCcaza0wYZYEnpdJZWkYEHEIzSAgoTGOT/AQhNhdCYbBjAl8BhTn2g
+QV4GHdfUCCCA8AEGEViwLggj4BpABR5sUKRxSxU821wqSCBJAx3sG4FHAlSgMAAc7PvBuB5MOs8B
+KaRHBQYc4ArACyWgpEFbH4AgggayQdDBoQhkMMIJMZ0wGgDzjlDCSyaQIEII7IrA7Elz6uyBKNig
+8FK5B7ggAwuNGeCaWzJ7UGQDH0Rywc49CxYyE61JYMADc4V7MgcUrP0CCPAR4AohgxgASwMkUADf
+AAtgUEIxJ2AQGs/FFINC0d098EACfGTlAQokRLKATcRETE8MNqCArAGDEFIIfAiYYEEAAixgQQjE
++PzBhEm0RjAKLrRw/4KWVWzwwQh/eQALi44H/8DFG6yAwgVFSlKABCKgcLoGNbWwggqLkxBC3Ikm
+0EEFRnpw7jwLyACD9Cp4hADnJMgLwQMQtL9+HBm0oIJ2iUoQgs8gwI7EBbrDRoxZV7AQbFrgOwBk
+AAb/CEgMADKOF5gAAw84FNAkYDgOUER+PjuaBOSFgRGsAAaGGwAJZLCCDM2ALFKjGgxoQALZVEAG
+NKCBPjYig4AshgMOAJQBXvOBDTDhAvcSwVRc50MrjEuIKgiBbCQAgxrIMCP8CIhGTmiCCSxxAwC4
+wDhWcAJ+caUZCQgBVejiACOVgAYtcBQDZOACFZSABLg6QAtmoIIMwf/ABjbQhziiOI4TnqAC8OFb
+/n6YAc5AxXq2uUJ9OLAzE+CKACeIyAldgBNxLOYm2qBjJPgGtJKlgAQ9BErN5NICF4igjAMwgQ1e
+oEay3C4EZZQjSyTWqhvksYEZuWQmX7CA2STFNuYpQoUM84EPdIA0ijxA0EqwMQaUYBwsOAEISJSC
+ETCAAiJggQtWsAHZaFESEYhLMiAgoiIZoAPFEMEpjTSCGaQxPi+oZl6ylgJglOAaIbgJC1BwHwr4
+rEZzcYEHXIiC7jCBEyZBi0iwgIHxaEBmJciAKEDlOATI5gAiwCIACMAAGQVSBTOQ2JcYsAC9AcA5
+PEkA5ASgAPgUwAH/KuilAs4lAg90QGUJOAAHYBCCeQggAQx43KEGEIICHqKl8UFBNEPQBIRGIxpZ
+wEAhXIMYn1WgV34wQAMkQAIQSCBOgEiABFpAAxvIoAPi8cMBItCBEVjAogIYQAKKB8hWsYACBxjr
+CWpzTKwaIATiWIEG0tqHAjDAAkeD0yQMIAGjxFMEt7DAVN0iRBaMr6jHxA4JSDCCjIZEdyqIwQzu
+EUMYCOYsMkuMCjo7AhbgxAUhKIFoAWOTvXbAkOtCAS5l0IIRGHMDsd0sZ0VACwyMkBuAgewnLkAA
+vBQTMUqtnfykdoKicZYEQ0PBClygjX3kUnopqC4pEdiNF1AyBvfI/4f4YLCCEuTPNbDhrnltQsna
+Uc8lJngjVHi2XW3EgKaTycCw2PXcxAhjeimQmnWjMpWa1Fd+v7BJMIxRDG3mkiKZ7AYMalfQhL2s
+sphL3DCmZwyXvDEuKtDmRdo4n09IQMAIUOcH8rI7E6AgcffV735vvAIE+ywuPJ5eTGJClRFHWMLE
++GRtENK/G1Mvv1JxcjHCy7idFZkFK0iBCUbQAUfgqgEKQwBnf0tVqJjgzG88WsxCYObqcraob2mz
+dZ/SZvxKxc5j/olJCkmwzT6FXU+JCpqNhjSCDQ2/I1iylwPVAQMk4I0fy0AGNEBMpsx4LW1Z11Jm
+rAENqMUtlp4x1/+YQmp/eVgDxS2kW4q5FraA+ikhmHEHZv0WdSrFAxzoSiMuAIE6eS0BRHzqpNUy
+aw6cZS3DJraxQyJsZbe6055u9bLTwuxo0KIhyT6LpIfNlttSm9izDklCGmEBCQSAeY4OtrUb8tSn
+Xrsh1ml3feoA73ZDm93yzve6F8Hud0dDJO1ehLzZYe1GgM4CFAjABEqgzE/20DQQjwer6nMwFBxA
+AYF5eMQ3TgQMsIo0AbCAClYUJo1zPOKZOMcAEhaA+JEclMg8uWnMfYANJIAARW25CxCwgJLHXOZ7
+8du8FkCArgZAAzvvOcxLA3SFtMoCPy0BM/YagA28gOc+Z3rTqdH/mAnEawElaEABVlv1qyu9h1rf
++icGYAFcbUVRLSBSC9K3ARhgfelqx8Vz7LYBcwM3WS+QO93tfvaf570R1ELeDicQAA+UYAAPgAEE
+DDB3AdT97mg/fCOcEx8NGOCvpwsBCiAfg8lX/vKFT7vmwXBuuzjAa9jAQABEoALIy8D0g8e84VfP
+BQhQAAcnVUAA6gMACIgARCrYQABgY3vcl133quc9FRJggTJCwNwYWIAAcn3SE4CoBVgkwQpsL/iq
+210BWZe+FsajqnM3VAMRBMFAKxBTBbxgoCRogQEiEFIEcKoAO7UADJB+6ocFz4FqFKAWQJQwUfEa
+c0cCyTUdIlACuTLgM4vRPKZFAuWQeQVoBdi2ATCTaDsjF1h2E7UjDqU0PnQxPigoXzbRHbvXgayR
+ASBYTLuzX3JBYsEQPb4gPdHDgzWROd2hazJ4MjS4arvjFPn1ElMhNT3DMy6RYDxDXQpmAq/TLUV4
+KZRGY0jTFOqUaE7BWp3lFF8ohl+oTp1ChFl4Mp4Gbm2RabOWF3KYaXJoU3kRhzb1E2vIUNuGEJM2
+adAWiII4iIEoaXt4iIiYiIq4iIx4ckEAADs=
+
+------=_NextPart_000_0000_01CE56DA.F0C9F670
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://recursostic.educacion.es/descartes/web/materiales_didacticos/Correlacion_regresion_recta_regresion/Image1.gif
+
+R0lGODdhYgIHAfcAAAAAAAAAgP8AANv/v93/vPv/nfr/nv3/mv3/m/7/mf//mfz/nO//q+3/reX/
+teD/uuP/uOj/sur/sPf/ofb/o/T/pvH/qPn/oMz/y83/ys//yc7/ytH/x9P/xtb/w9T/xND/yNj/
+wQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAABiAgcB
+QAj/ABUIHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKpJigpMmTKFOqXMmypcuX
+MGPKnEmzps2bOHPq3Mmzp8+fQIMKHUq06MmFRpMqXcq0qdOnUKNKnUq1as2FB7Jq3coVgFetXsNy
+HUu2rNmzaNOqXcu2rdu3cOPKnUu3rt27ePPq3ct3bYC+gMkuREC4sOHDCLwWDqsYsWMAjiNLnky5
+suXLmDNr3sy5s+fPoEOLHk26tOnTqCMHEMA6QOrXhxcumE27tu3buHPXBqC7t+/fwIMLH068uPHj
+yJMrX868ufPn0KNLn06d+sIC2LNr385du9fu3AGA/x9Pvrz57OLPq19PPj379/Ddw59/Xj79++Pt
+49+PXT///f79d1+AAs5HYIHvHQjeQgY06OCDEEYo4YQPAkDhhRhmqOGGHHbo4YcghijiiCSWaOKJ
+KKao4oostuiiiwtdIOOMNNZoI2MA2KjjBTnu6OOPQAYp5JBEFmnkkUgmqeSSTDbp5JNQLrkaa1QK
+EECUWGap5ZZPLjTBl2CGKeaYZJYZJgBmpqnmmmqiyeabcKbpZpx01jlnnXiyeWeefJq5Z5+Afvln
+oIAOSiifhh6KZ6KK0slomQtRIOmklFZqqaReXaopAJp26umnoIYq6qiklmrqqaimquqqrLbK6pRW
+uv8q66yqwhoArbjmqqukC1Xg66/ABivssMQCC0CxyCar7LLMNuvss9BGK+201FZr7bXYEhtAttx2
+W+223oYrrrgLWWDuueimqy6OAKjrbrvuxivvvPS+W++9+OILb7789nvuvv4GfC/AAhcsbwAGJ2yv
+wgz/2/DDBD9ccMQSB0wxvQsxoPHGHHfsMY4eh8wAACKXbPLJKKes8sost+zyyzDHLPPMMNtK8804
+56zzzjz37PPPCzUg9NBEF2300UgTDUDSTDft9NNQRy311FRXbfXVWGet9dZcd+3112CHLfbYYy8k
+wdlop6322ml7xbYE7ALQttxou1033WfbnTfecPP/rXffcwd+t+B7Ew744IgXnvjhijfO+ON/R+73
+5IZLXjnli1ueOeaOSw5rla1xDvflpN/9OegBiK5556oDcHqVqZfOuuyQt0776rXfbvvmur/tuwQL
+RSD88MQXb/zxyBMPQPLMN+/889BHL/301Fdv/fXYZ6/99tx37/334Icv/vjjL+TA+einr/76DgDQ
+vvvsrw9//PTXb//9+Oev//789+///wAMoAAHSMACGvCACEygAhfIQAEuBAIQjKAEJ0jBClpQggC4
+oAY3yMENZrCDIAyhBj8owhKakIQmTGEHUajCFl6QhS6MIQRhKMMY0rCGLbwhDlOowx2WsIcWXMgD
+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
+uQGQuqzbuq7Luq+Xe823fLRbu7Z7u7ibu7q7u7zLu7FLNeyie7s7u8dHvMVnvMKHvMmru8rLe80r
+u8MbvVPzfNrHLtbHN/CXvdq7vdzbvd4Lfdz0vWsTvuKrNuRbvuibvuoLPArBfWHhOL6Dves7v/Rb
+v/brfeeLvvmrv6hzv/77v90nf/pnfwmoPAVcPAR8wBGQwAdBzMANrMDC48AJKMEISMEHaMEGiMHI
+I8D5p8EQ/MEgHMIiPMIkXMIm/MELCEBhQYEm2MIu/MIwHMMyPMM0XMM2jED/KWyB8NOA8RM3JPiA
+PHyCQDzEP1zE6BPE72PEQqzESXzEROzETIzEUvzESwzFVlzFWNzEWTzFUUzFWvzFXHzFYOzFYbzF
+ZAzEXZzGYlzGY6zGZuzGbbzGZwzHbFzHcyzHdHzHb4zHYpw/LOhCXgFCQOSDhFzIhnzIiJzIirzI
+jNzIKfTHODjIjjzJlFzJlnzJmJzJmixDQKhFOFJFTvSERRTKojxEpFzKpyzKqazKpWzKrezKr7zK
+TijLTUjLUdTJWxQWoPzKvNzLvvzLwBzMwjzMvRyFgDRHd3hHYQhJzNzMzvzM0BzN0jzN1FzN1nzN
+kGTMzrzM2CxH3fxG3IzN/+F8zeNMzt+MheeMzunszetcztXsznS0iafoia1Yz/Z8z/icz/q8z/zc
+z/7sigrxSl4xSvRMz/98iuR30Pmc0Ard0A790BBdz68oTrEITXETTbOITBUdAhvd0RnN0R/t0Rg9
+0skk0iUd0ihN0hrtbKGT0iet0iAN0yat0S5N0zJd0zH90iXN0lYy0zlt0zoN1EL900Tt0zht1Eed
+1De91EFd1Erd1EjN1EMd1VD91FNt1U4t1Vnd1Ng00d500bJIjGJ9TeQ31mYNTWV91mq91mzd1m6N
+TsYIjeQojnRd13Z913id13q913zN13GNUF4RUHPtjYPNjYWdjYdtjYmt2PF6vdhyvdeO3YyRrYyT
+bY70iFLqiFbsSJCc3dme/dmgHdqiPdqkXdqmfdr1aNn2mNkgtdmo/dqwHduyPdu0Xdu2fdv8aJAO
+qZAXOVe97Va8/dsdENy/TdzFLdxrZdwXqdwWydwV6dwUCd1xpdsNKd3Ifd3Ynd3avd3c3d3efd0Z
++ZGWtZEzaZPmfd7ond7qvd7s3d7u/d63pRCohVkcQN+VFTf4nd/6vd/83d/+/d8AHuACPuAEXuAG
+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
+
+------=_NextPart_000_0000_01CE56DA.F0C9F670
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://recursostic.educacion.es/descartes/web/materiales_didacticos/Correlacion_regresion_recta_regresion/Image2.gif
+
+R0lGODdhYgIHAfcAAAAAAAAAgAAA//8AANv/v93/vPv/nfr/nv3/mv3/m/7/mf//mfz/nO//q+3/
+reX/teD/uuP/uOj/sur/sPf/ofb/o/T/pvH/qPn/oMz/y83/ys//yc7/ytH/x9P/xtb/w9T/xND/
+yNj/wQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAABiAgcB
+QAj/ABcIHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKpKigpMmTKFOqXMmypcuX
+MGPKnEmzps2bOHPq3Mmzp8+fQIMKHUq06MmFRpMqXcq0qdOnUKNKnUq1as2FCLJq3coVgFetXsNy
+HUu2rNmzaNOqXcu2rdu3cOPKnUu3rt27ePPq3ct3bYC+gMkuTEC4sOHDCbwWDqsYsWMAjiNLnky5
+suXLmDNr3sy5s+fPoEOLHk26tOnTqCMHGMA6QGoBsGPDPr2Qge3buHPr3s0bN4DewIMLH068uPHj
+yJMrX868ufPn0KNLn069unXdsmVfT77QgPfv4MOL/wfvdbx4AObTq1/P/jv69vDjq38vv759+vbz
+t8evv396/v4F6B2AAgZIYIH9HYigetnFZoCCC9YHoXkLHWDhhRhmqOGGHGIIQIcghijiiCSWaOKJ
+KKao4oostujiizDGKOOMNL7YoAA15qjjAQth4OOPQAYpJGMACGkkBkUeqeSSTDbp5JNQRinllFRW
+aeWVWGap5ZZcXrkaa2AOEECXV95I5plokrkQBWy26eabcMYpp5sAzGnnnXjeWWeefPZp555+Bioo
+oIIWmiehhiY6J6KKNsomo442CqmjNwrA56SRGopppoMKulAFoIYq6qikgupVqagCgOqqrLbq6quw
+xv8q66y01mrrrbjmquuuun4pJq/AolppsKT6GgCxyCarLKgLWeDss9BGK+201EILQLXYZqvtttx2
+6+234IYr7rjklmvuuehSG0C63N7I7rvOrgvvvPTSu9AF+Oar7778EgkAvwD/C/DABBdscMAHJ6yw
+wgIv7PDD+TYM8cQJS0zxxQQHgPHGCEN8I8cRgywyvhaPfHHJJk+MssELNeDyyzDHLDORMtfcAAA2
+56zzzjz37PPPQAct9NBEF2300UQbi/TRlS7t9NNQRy311FS7vJADWGet9dZcd+211gB8LfbYZJdt
+9tlop6322my37fbbcMf9daVy12333XjnrffeaC//NMHfgAcu+OCBe0X4BP4CULjigBveOON/Ox45
+5IhTLnnli2f+uOaTc4755qB3HvrnopdO+umXp2756p6r3jrro7seO+ymq+5rmK1V2vjrvD9+O+4B
+0I668LJP/nuYwfdeO/HMKz+888U/Pzv0zY9++OALSaD99tx37/334HMPQPjkl2/++einr/767Lfv
+/vvwx4/+jfLXb//9+Oev//7892/+Qg8IoAAHSMACPgAAB0SgAQuowAU68IEQjKAEJ0jBClrwghjM
+oAY3SMAbcfCDIAyhCEdIwhKa8IQohOBCIsDCFrrwhTCMoQxdCIAZ2vCGOLxhDXPIwx7acIc+DKIQ
+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
+
+------=_NextPart_000_0000_01CE56DA.F0C9F670
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://recursostic.educacion.es/descartes/web/materiales_didacticos/Correlacion_regresion_recta_regresion/imagen4.gif
+
+R0lGODlh2gEWAfcAAAAAAAAAewAA/8b/xs7/vc7/xs7/ztb/tdb/vdb/xt7/rd7/td7/vd7/xuf/
+pef/ref/te//nO//pe//rff/lPf/nPf/pf8AAP//lP//nP///wAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAADaARYB
+AAj+ADUIHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKHEmypMmTKFOqXMmypcuX
+MGPKnEmzps2bOHPq3Mmzp8+fQIMKHUq0I4ajSJMqXcq0qdOnUKNKnUq1qtWrWLNq3cq1q9evYMOK
+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
+
+------=_NextPart_000_0000_01CE56DA.F0C9F670
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://recursostic.educacion.es/descartes/web/materiales_didacticos/Correlacion_regresion_recta_regresion/Image3.gif
+
+R0lGODdhTQLgAPcAAAAAAAAAgP8AAMz/zM3/zM7/zM//zND/zNH/zNP/zNT/zNb/zNj/zNv/zN3/
+zOD/zOP/zOX/zOj/zOr/zO3/zO//zPH/zPT/zPb/zPf/zPn/zPr/zPv/zPz/zP3/zP7/zP//zAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAABNAuAA
+QAj/AEEIHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOG/ECypMmTKFOqXMmypcuX
+MGPKnEmzps2bOHPq3Mmzp8+fQIMKHTpzIdGjSJMqXcq0qdOnUKNKndpyoYerWLNq3cq1qwcAX8GG
+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
+xVVkxVZkxYAAADs=
+
+------=_NextPart_000_0000_01CE56DA.F0C9F670
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://recursostic.educacion.es/descartes/web/imagenes_comunes/logo_d.gif
+
+R0lGODlhKwBGAPf/AP////7+/v39/fz8/Pv7+/r6+vn5+fj4+Pf39/b29vX19fT09PPz8/Ly8vHx
+8fDw8O/v7+7u7u3t7ezs7Ovr6+rq6unp6ejo6Ofn5+bm5uXl5eTk5OPj4+Li4uHh4eDg4N/f397e
+3t3d3dzc3Nvb29ra2tnZ2djY2NfX19bW1tXV1dTU1NPT09LS0tHR0dDQ0M/Pz87Ozs3NzczMzMvL
+y8rKysnJycjIyMfHx8DAwMXFxcTExMPDw8LCwsHBwcDAwL+/v76+vr29vby8vLu7u7q6urm5ubi4
+uLe3t7a2trW1tbS0tLOzs7KysrGxsbCwsK+vr66urq2traysrKurq6qqqqmpqaioqKenp6ampqWl
+paSkpKOjo6KioqGhoaCgoJ+fn56enp2dnZycnJubm5qampmZmZiYmJeXl5aWlpWVlZSUlJOTk5KS
+kpGRkZCQkI+Pj46Ojo2NjYyMjIuLi4qKiomJiYiIiIeHh4aGhoWFhYSEhIODg4KCgoGBgYCAgH9/
+f35+fn19fXx8fHt7e3p6enl5eXh4eHZ2dnV1dXR0dHNzc3JycnFxcQAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAADkALAAAAAArAEYA
+QAj/AHMIHEiwoMGDCBPqwCEBwAAOJEaQmEixhIYJDxgkGACgI4AAFFbw6LFDhw6FPohkAFDBDR83
+Xp4M8dGjZg8fOH8EEULkyBIoV76gkcMnT4iOMbQwGdLjpI6UK1vqWbNlyY+TCRHq2BGECZYRAB6c
+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
+Ow==
+
+------=_NextPart_000_0000_01CE56DA.F0C9F670
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://recursostic.educacion.es/descartes/web/imagenes_comunes/fondo_1.gif
+
+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
+
+------=_NextPart_000_0000_01CE56DA.F0C9F670--
