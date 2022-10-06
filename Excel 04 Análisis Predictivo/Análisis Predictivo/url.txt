@@ -1,5 +1,0 @@
-http://www.gerencie.com/analisis-de-hipotesis-con-tablas-de-datos-basados-en-dos-variables-de-entrada.html
-
-https://www.gcfaprendelibre.org/tecnologia/curso/microsoft_excel_2010/el_analisis_de_hipotesis_en_excel_2010/1.do
-
-Pasos encontrar la tasa de interés con la herramienta Buscar Objetivo
